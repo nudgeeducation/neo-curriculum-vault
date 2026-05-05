@@ -7,7 +7,7 @@ strand: producing
 cornerstone: creativity (●●●), reflection (●●), connection (●●)
 mode: live, asynchronous, independent
 oeas: curriculum-breadth
-mastery_scale: applies (KS3 levels: developing / secure / mastering)
+mastery_scale: "applies (KS3 levels: developing / secure / mastering)"
 source: DfE (2014) Art and Design programmes of study, KS3 — Crown copyright
 ---
 

@@ -7,7 +7,7 @@ strand: reading
 cornerstone: connection (●●●), reflection (●●●), creativity (●●)
 mode: live, asynchronous, independent
 oeas: curriculum-breadth, curriculum-rigour
-mastery_scale: applies (KS3 levels: developing / secure / mastering)
+mastery_scale: "applies (KS3 levels: developing / secure / mastering)"
 source: DfE (2014) English programmes of study, KS3 — Crown copyright
 ---
 
