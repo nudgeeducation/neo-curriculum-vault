@@ -13,8 +13,6 @@ mastery_scale: not assessed
 need: social-emotional-mental-health, sensory-physical
 ---
 
-# Nutrition Elective
-
 Food, cooking basics, and body literacy, delivered weekly by the learner's named practitioner. The elective answers the practical question *"how do I eat well, sustainably, and in a way that fits this body and this life?"* — without moralising, without ranking foods as good or bad, and with explicit care for learners with disordered eating histories.
 
 ## What this includes

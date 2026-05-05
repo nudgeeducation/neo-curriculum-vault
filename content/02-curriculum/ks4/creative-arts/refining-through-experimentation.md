@@ -10,8 +10,6 @@ oeas: curriculum-rigour
 mastery_scale: applies
 ---
 
-# Refining through experimentation with media
-
 Trying things. Selecting and experimenting with appropriate media, materials, techniques, and processes. Iterating — keeping what works, abandoning what doesn't, learning from both. The discipline of *making* as a way of thinking. Demonstrating range and judgement in material choice.
 
 ## Tested by

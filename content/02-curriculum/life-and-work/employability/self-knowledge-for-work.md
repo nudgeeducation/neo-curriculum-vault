@@ -12,8 +12,6 @@ pfa: employment
 need: social-emotional-mental-health, communication-interaction
 ---
 
-# Self-knowledge for work
-
 Knowing what kind of work suits this particular person — their strengths, interests, energy patterns, social preferences, sensory needs, ambitions, and constraints. The discipline of *not generalising about adulthood* but instead working out what *this* young person's adult working life can look like.
 
 For NEO's EBSNA / SEMH / neurodivergent learners, this strand is more important than for a typically-developing cohort, because:

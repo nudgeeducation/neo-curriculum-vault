@@ -11,8 +11,6 @@ mastery_scale: applies
 source: DfE (2014) Mathematics programmes of study, KS3 — Crown copyright
 ---
 
-# KS3 Maths — Statistics
-
 Data collection. Averages (mean, median, mode) and range. Reading and constructing charts and graphs. Beginning critical interpretation of data.
 
 ## NC outcomes (paraphrased)

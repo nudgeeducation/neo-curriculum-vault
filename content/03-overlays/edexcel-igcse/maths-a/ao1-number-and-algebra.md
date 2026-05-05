@@ -8,8 +8,6 @@ weighting: 57–63% of qualification
 private_only: true
 ---
 
-# Edexcel IGCSE 4MA1 — AO1 Number and Algebra
-
 > **AO1** — Demonstrate knowledge, understanding and skills in number and algebra: numbers and the number system; calculations; solving numerical problems; equations, formulae and identities; sequences, functions and graphs.
 
 *(Verbatim spec text private side only — © Pearson Education Limited 2017)*

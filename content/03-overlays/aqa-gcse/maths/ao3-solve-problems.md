@@ -8,8 +8,6 @@ weighting: Foundation 25%, Higher 30%
 private_only: true
 ---
 
-# AQA GCSE 8300 — AO3 Solve problems within mathematics and in other contexts
-
 > **AO3** — Solve problems within mathematics and in other contexts. Students should be able to: translate problems in mathematical or non-mathematical contexts into a process or a series of mathematical processes; make and use connections between different parts of mathematics; interpret results in the context of the given problem; evaluate methods used and results obtained; evaluate solutions to identify how they may have been affected by assumptions made.
 
 *(Verbatim spec text private side only — © AQA)*

@@ -6,8 +6,6 @@ first_taught: September 2016
 first_assessed: June 2018
 ---
 
-# AQA GCSE Art and Design
-
 The AQA-pathway GCSE for learners on the AQA route. Same four AOs as Edexcel — this is a shared JCQ / Ofqual standard for Art at GCSE / IGCSE level.
 
 ## Endorsements (separate spec codes)

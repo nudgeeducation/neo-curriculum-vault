@@ -9,8 +9,6 @@ section: A (Reading)
 private_only: true
 ---
 
-# AQA GCSE 8700 — AO3
-
 > **AO3** — Compare writers' ideas and perspectives, as well as how these are conveyed, across two or more texts.
 
 *(Verbatim spec text private side only — © AQA)*

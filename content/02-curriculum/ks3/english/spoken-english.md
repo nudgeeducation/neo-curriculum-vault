@@ -11,8 +11,6 @@ mastery_scale: applies
 source: DfE (2014) English programmes of study, KS3 — Crown copyright
 ---
 
-# KS3 English — Spoken English
-
 Speaking confidently and effectively. Listening and responding. Participating in formal debates and structured discussions, summarising and presenting information.
 
 ## NC outcomes (paraphrased; full text on gov.uk)

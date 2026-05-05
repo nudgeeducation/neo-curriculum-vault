@@ -7,8 +7,6 @@ assessment: portfolio, externally moderated by ASDAN
 regulated: false (not Ofqual-regulated)
 ---
 
-# ASDAN — Animal Care (Short Course)
-
 A 60-guided-learning-hour Short Course exploring animal welfare, husbandry, and the relationship between humans and animals. Portfolio-based, externally moderated by ASDAN.
 
 ## Likely topics

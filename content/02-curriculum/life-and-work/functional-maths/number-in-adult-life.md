@@ -11,8 +11,6 @@ mastery_scale: applies
 pfa: independent-living, employment
 ---
 
-# Functional Maths — Number in adult life
-
 Working with whole numbers, fractions, decimals, percentages, and ratios in real-world contexts. Money, recipes, scaling, conversion, budgeting, comparison shopping, calculating tips, splitting a bill, percentage off, percentage tax.
 
 The Level 2 expectation is that the learner can do this at the kind of speed and accuracy adult life requires — *not* with the breathing space of a textbook exercise.

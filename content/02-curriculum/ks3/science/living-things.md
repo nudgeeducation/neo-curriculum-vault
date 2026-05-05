@@ -11,8 +11,6 @@ mastery_scale: applies
 source: DfE (2014) Science programmes of study, KS3 — Crown copyright
 ---
 
-# KS3 Science — Living things
-
 The biology content of KS3 Science. Cell structure (microscopy), body systems (circulation, breathing, digestion, nervous system), nutrition and health, reproduction, ecology and interdependence, evolution and inheritance.
 
 NEO's framing per the Curriculum Rationale: introduce science through the human body, nutrition, and the environment — topics with immediate personal relevance for the EBSNA cohort.

@@ -11,8 +11,6 @@ mastery_scale: applies
 source: DfE (2014) Mathematics programmes of study, KS3 — Crown copyright
 ---
 
-# KS3 Maths — Ratio, proportion and rates of change
-
 Direct and inverse proportion. Percentages as a special case of proportion. Compound measures (speed, density). Conversions between units.
 
 ## NC outcomes (paraphrased)

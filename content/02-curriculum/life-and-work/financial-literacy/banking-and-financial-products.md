@@ -10,8 +10,6 @@ mastery_scale: applies
 pfa: independent-living, employment
 ---
 
-# Banking and financial products
-
 Current accounts (basic, fee-paying, packaged). Savings accounts (instant access, fixed-term, regular savers). ISAs (cash, stocks-and-shares, lifetime, junior). Credit (credit cards, overdrafts, personal loans, car finance, BNPL). Mortgages — the basics of how they work, deposit requirements, fixed vs variable, the different types of survey, the role of solicitors. Insurance — contents, building, life, income protection, travel, the different ways insurance works as a financial product.
 
 The pedagogy is *understanding what each product is for and what its risks are*, not pushing one over another. A learner who can read a financial product's terms and decide whether it fits their situation has the core skill.

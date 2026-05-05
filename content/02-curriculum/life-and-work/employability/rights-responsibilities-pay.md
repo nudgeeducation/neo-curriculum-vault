@@ -11,8 +11,6 @@ mastery_scale: applies
 pfa: employment, independent-living
 ---
 
-# Rights, responsibilities, and pay
-
 The legal and financial architecture of being employed. Contracts of employment. Payslips and what's on them. Tax basics (income tax, National Insurance, tax codes). Pension auto-enrolment. Statutory rights — minimum wage, holiday entitlement, sick pay, parental leave, protection from discrimination (Equality Act 2010), reasonable adjustments. What to do when something is wrong — informal conversation, formal grievance, ACAS, employment tribunal.
 
 ## What this includes

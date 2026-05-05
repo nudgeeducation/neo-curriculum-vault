@@ -3,8 +3,6 @@ title: Cornerstones Electives
 tags: [curriculum, curriculum/cornerstones-elective]
 ---
 
-# Cornerstones Electives
-
 Optional weekly KS3 sessions structured around one Cornerstone, per the [Curriculum Rationale v2.0](https://nudgeeducation.github.io/nudge-policy-vault/) §8a:
 
 > *"Optional weekly session structured around one Cornerstone — Movement (physical activity, body awareness), Rest (mindfulness, breathing, self-regulation techniques), Nutrition (food, cooking basics, body literacy), Connection (community, relationships, communication skills). Not assessed. Delivered by the named practitioner. Provides the relational glue that makes the academic strands possible."*

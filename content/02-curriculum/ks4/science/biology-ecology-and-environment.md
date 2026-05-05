@@ -10,8 +10,6 @@ oeas: curriculum-breadth
 mastery_scale: applies
 ---
 
-# Ecology and the environment
-
 Levels of organisation in ecosystems (organism, population, community, ecosystem). Biotic and abiotic factors. Predator-prey relationships. Cycles (carbon, water, nitrogen). Biodiversity and human impact (climate change, deforestation, pollution). Sustainability.
 
 ## Tested by

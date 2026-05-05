@@ -11,8 +11,6 @@ mastery_scale: applies
 source: DfE (2014) Science programmes of study, KS3 — Crown copyright
 ---
 
-# KS3 Science — Forces, energy, and the universe
-
 The physics content of KS3 Science. Energy and energy transfer. Motion and forces. Waves and sound. Electricity and magnetism. The particle model (shared with chemistry). Space physics — Earth, Sun, Moon, the Solar System.
 
 ## NC outcomes (paraphrased)

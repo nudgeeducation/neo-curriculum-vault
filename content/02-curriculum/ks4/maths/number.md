@@ -10,8 +10,6 @@ oeas: curriculum-rigour
 mastery_scale: applies
 ---
 
-# Number and the number system
-
 Working with the number system at KS4: integers, decimals, fractions, percentages, ratio, proportion, indices and powers, standard form (Higher), surds (Higher), rounding and estimation, error bounds. Applying number skills in real-life contexts and in purely mathematical contexts.
 
 ## Tested by

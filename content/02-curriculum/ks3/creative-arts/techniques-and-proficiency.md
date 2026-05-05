@@ -11,8 +11,6 @@ mastery_scale: applies
 source: DfE (2014) Art and Design programmes of study, KS3 — Crown copyright
 ---
 
-# KS3 Creative Arts — Techniques and proficiency
-
 The second NC bullet for KS3 Art and Design: *"become proficient in drawing, painting, sculpture and other art, craft and design techniques."*
 
 The technical-skill strand of KS3 Creative Arts. Building hand skills in foundational techniques: drawing (line, tone, perspective, observation), painting (colour mixing, brushwork, washes, layering), sculpture (carving, modelling, construction), printmaking, photography, digital media, mixed media.

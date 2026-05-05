@@ -7,8 +7,6 @@ assessment: portfolio, externally moderated by ASDAN
 regulated: false (not Ofqual-regulated)
 ---
 
-# ASDAN — FoodWise (Short Course)
-
 A 60-guided-learning-hour Short Course exploring food, cooking, hygiene, nutrition, and the food industry. Portfolio-based, externally moderated by ASDAN. **The most NEO-online-friendly of the three priority Short Courses** because cooking happens at the learner's home and is evidenced via photo / video.
 
 ## Likely topics

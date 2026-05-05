@@ -10,8 +10,6 @@ oeas: curriculum-breadth
 mastery_scale: applies
 ---
 
-# Functional English — Speaking, listening, and communicating
-
 Communicating clearly in adult-life contexts. Workplace meetings, phone calls to services, healthcare conversations, public-meeting participation, formal interviews. Listening and responding. Adapting tone and register to audience and situation.
 
 ## Tested most directly by

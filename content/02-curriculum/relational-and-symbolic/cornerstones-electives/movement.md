@@ -13,8 +13,6 @@ mastery_scale: not assessed
 need: social-emotional-mental-health, sensory-physical
 ---
 
-# Movement Elective
-
 Physical activity and body awareness, delivered weekly by the learner's named practitioner. Not formal PE — Phase 2 candidate Edexcel IGCSE PE sits in the academic offer separately. The Movement Elective is about **the body as a site of regulation, attention, and learning**, not about fitness or performance.
 
 ## What this includes

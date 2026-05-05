@@ -4,8 +4,6 @@ tags: [overlay/aqa-gcse]
 status: stub-awaiting-population
 ---
 
-# AQA GCSE — english-literature
-
 *To populate when a NEO learner is registered for this AQA pathway.*
 
 ## Awarding-body outcomes

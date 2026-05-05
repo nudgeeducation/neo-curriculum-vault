@@ -11,8 +11,6 @@ pfa: independent-living, good-health
 need: social-emotional-mental-health
 ---
 
-# Healthcare navigation and self-care
-
 Registering with a GP, dentist, optician. Booking appointments. Knowing what each NHS service does (GP / pharmacy / 111 / 999 / A&E / minor injuries / mental-health crisis services). Self-advocacy — describing symptoms, asking for what you need, requesting a different doctor, getting a second opinion. Mental health services: how the IAPT / NHS Talking Therapies route works; CAMHS for under-18s; adult mental health services; community psychology; private routes and their limits. Repeat prescriptions and managing medications. Self-examination and screening (cancer awareness, sexual health screening). Recognising when to seek help vs when to wait it out.
 
 For learners with chronic conditions, neurodivergence, mental-health histories, or complex care needs, healthcare navigation is a genuinely difficult skill — and NEO learners often have more practice with the system than their peers but less practice doing it independently of family.

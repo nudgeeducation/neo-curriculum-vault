@@ -11,8 +11,6 @@ mastery_scale: applies
 source: DfE (2014) English programmes of study, KS3 — Crown copyright
 ---
 
-# KS3 English — Grammar and vocabulary
-
 Accurate, varied, and purposeful use of grammar and vocabulary. Understanding how language patterns work and using that understanding deliberately in writing and speaking.
 
 ## NC outcomes (paraphrased; full text on gov.uk)

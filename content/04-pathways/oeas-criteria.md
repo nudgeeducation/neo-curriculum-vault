@@ -3,8 +3,6 @@ title: OEAS Accreditation Criteria
 tags: [oeas-index]
 ---
 
-# OEAS Accreditation Criteria
-
 NEO is pursuing **Online Education Accreditation Scheme (OEAS)** accreditation only — not DfE registration as an independent school, not ISI inspection. This is the route to DfE recognition for online provision.
 
 ## The four anchor tags

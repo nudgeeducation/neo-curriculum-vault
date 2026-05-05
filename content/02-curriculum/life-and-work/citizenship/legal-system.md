@@ -10,8 +10,6 @@ mastery_scale: applies
 pfa: community, independent-living
 ---
 
-# The legal system and rule of law
-
 How law works in the UK. The difference between criminal law (state vs individual; standard of proof "beyond reasonable doubt") and civil law (individual vs individual; standard of proof "on the balance of probabilities"). Courts — magistrates, county, crown, high, supreme. Juries — the right to a jury trial for serious offences; jury service as a civic duty. Legal aid and access to justice. The role of solicitors, barristers, and advocates. Common-law and statutory rights.
 
 What to do if arrested or charged — the right to silence, the right to a solicitor (free at the police station), the duty solicitor scheme. Knowing one's rights at the most vulnerable moments of an encounter with the law.

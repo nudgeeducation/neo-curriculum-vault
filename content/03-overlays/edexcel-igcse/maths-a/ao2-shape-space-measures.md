@@ -8,8 +8,6 @@ weighting: 22–28% of qualification
 private_only: true
 ---
 
-# Edexcel IGCSE 4MA1 — AO2 Shape, Space and Measures
-
 > **AO2** — Demonstrate knowledge, understanding and skills in shape, space and measures: geometry and trigonometry; vectors and transformation geometry.
 
 *(Verbatim spec text private side only — © Pearson Education Limited 2017)*

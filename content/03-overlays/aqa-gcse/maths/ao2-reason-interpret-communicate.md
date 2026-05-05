@@ -8,8 +8,6 @@ weighting: Foundation 25%, Higher 30%
 private_only: true
 ---
 
-# AQA GCSE 8300 — AO2 Reason, interpret and communicate mathematically
-
 > **AO2** — Reason, interpret and communicate mathematically. Students should be able to: make deductions, inferences and draw conclusions from mathematical information; construct chains of reasoning to achieve a given result; interpret and communicate information accurately; present arguments and proofs; assess the validity of an argument and critically evaluate a given way of presenting information.
 
 *(Verbatim spec text private side only — © AQA)*

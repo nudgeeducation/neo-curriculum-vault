@@ -3,8 +3,6 @@ title: Revision guides
 tags: [resource]
 ---
 
-# Revision guides
-
 Awarding-body-aligned revision guides sourced via Amazon or publisher direct, in line with whichever board a learner is sitting exams through.
 
 ## Sourcing pattern

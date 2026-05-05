@@ -13,8 +13,6 @@ authored_date: February–April 2026
 delivery_format: 5-day intensive (online with facilitated delivery)
 ---
 
-# Girls in Green Futures (GIGF)
-
 Eight-module green-economy work-experience programme — *General Work Experience Programme*, branded *Girls in Green Futures*. Built for **Gleeds Energy & Defence** as the industry partner.
 
 The programme teaches **project controls by doing project controls**: scope, schedule, estimating, risk, reporting, KPIs, governance, presentation. The "live project" each cohort works on is their school's Climate Action Plan — so the project-controls skills are applied to a real-world piece of work the school can carry forward after the programme ends.

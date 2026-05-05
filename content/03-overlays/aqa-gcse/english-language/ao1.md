@@ -9,8 +9,6 @@ section: A (Reading)
 private_only: true
 ---
 
-# AQA GCSE 8700 — AO1
-
 > **AO1** — Identify and interpret explicit and implicit information and ideas. Select and synthesise evidence from different texts.
 
 *(Verbatim spec text private side only — © AQA)*

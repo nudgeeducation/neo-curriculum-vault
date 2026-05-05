@@ -11,8 +11,6 @@ mastery_scale: applies
 pfa: employment, independent-living
 ---
 
-# Application and interview
-
 The documents and conversations of getting hired. CVs, cover letters, application forms, supporting statements, online application portals, interviews (in person, on video, on the phone), follow-up communications.
 
 ## What this includes

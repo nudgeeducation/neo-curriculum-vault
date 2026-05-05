@@ -10,8 +10,6 @@ oeas: curriculum-rigour
 mastery_scale: applies
 ---
 
-# Recording observations and insights
-
 The sketchbook practice. Recording ideas, observations, and insights relevant to intentions as work progresses. Annotation as a form of thinking. Photography as record. Reflective writing in process. The visible trace of a learner's mind at work.
 
 ## Tested by

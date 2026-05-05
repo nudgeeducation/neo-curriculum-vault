@@ -3,8 +3,6 @@ title: Pearson Edexcel Functional Skills
 tags: [overlay, overlay/edexcel-functional-skills]
 ---
 
-# Pearson Edexcel Functional Skills
-
 NEO's chosen FS awarding body (Kirstin's call, 5 May 2026, ~99% confidence). Underlying standard: **Ofqual's Functional Skills Subject Content for English / Maths (2018)** — the awarding-body-neutral foundation against which all FS specs are written.
 
 NEO does not register learners with Pearson Edexcel for FS exams. Learners register through their LA, commissioner, or via Pass Functional Skills as the standard registering route. NEO delivers the curriculum and supports revision via [[../../06-resources/bksb|bksb]].

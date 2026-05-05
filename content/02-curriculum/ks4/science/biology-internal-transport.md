@@ -10,8 +10,6 @@ oeas: curriculum-rigour
 mastery_scale: applies
 ---
 
-# Internal transport
-
 The structure and function of the heart and circulatory system. Blood vessels (arteries, veins, capillaries). Blood composition (red and white cells, platelets, plasma) and function. The lymphatic system. Cardiovascular disease and risk factors.
 
 ## Tested by

@@ -10,8 +10,6 @@ oeas: curriculum-rigour
 mastery_scale: applies
 ---
 
-# Geometry and measures
-
 Properties of 2D and 3D shapes. Area, perimeter, volume, surface area. Pythagoras' theorem. Trigonometry (right-angled at Foundation; non-right-angled at Higher). Transformations (translation, reflection, rotation, enlargement). Vectors (Higher). Bearings and constructions.
 
 ## Tested by

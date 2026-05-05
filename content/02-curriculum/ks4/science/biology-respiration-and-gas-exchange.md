@@ -10,8 +10,6 @@ oeas: curriculum-rigour
 mastery_scale: applies
 ---
 
-# Respiration and gas exchange
-
 Cellular respiration (aerobic and anaerobic) — the chemistry of energy release. The structure of the breathing system. Mechanism of breathing. Gas exchange in the alveoli. Effects of exercise. Smoking and lung disease.
 
 ## Tested by

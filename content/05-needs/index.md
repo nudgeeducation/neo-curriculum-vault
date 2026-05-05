@@ -3,8 +3,6 @@ title: Areas of Need
 tags: [need-index]
 ---
 
-# Areas of Need
-
 Four broad areas of need from the SEND Code of Practice. These describe the *learner profile* a particular delivery approach is well-suited to — **not** the outcome itself.
 
 - [[communication-and-interaction|Communication and Interaction]]

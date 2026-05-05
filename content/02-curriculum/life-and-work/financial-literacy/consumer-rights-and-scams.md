@@ -10,8 +10,6 @@ mastery_scale: applies
 pfa: independent-living, community
 ---
 
-# Consumer rights and protection from scams
-
 The legal and practical framework of being a consumer. Consumer Rights Act 2015 — what you're entitled to when goods are faulty, services are sub-standard, digital content fails. How to complain effectively. Refund rights, returns, distance-selling regulations. Section 75 of the Consumer Credit Act (the credit-card protection on purchases £100–£30,000). What to do when a company won't engage — the Financial Ombudsman, the small-claims court, ADR schemes.
 
 Scams and financial fraud — recognising the patterns. Phishing emails. Investment scams. Romance scams. Identity theft. AI-generated voice scams (the new 2026 frontier). What to do if you've been scammed (Action Fraud, your bank's fraud line, immediate steps to limit harm). The shame that often comes with being scammed, and the importance of help-seeking despite that shame.

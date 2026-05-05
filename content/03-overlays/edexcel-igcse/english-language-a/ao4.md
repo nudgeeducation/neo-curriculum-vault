@@ -9,8 +9,6 @@ section: B (Writing)
 private_only: true
 ---
 
-# Edexcel IGCSE 4EA1 — AO4
-
 > **AO4** — communicate effectively and imaginatively, adapting form, tone and register of writing for specific purposes and audiences.
 
 *(Verbatim spec text private side only — © Pearson Education Limited 2025)*

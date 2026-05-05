@@ -10,8 +10,6 @@ weighting: ~12% of overall qualification mark (within Component 1 Reading)
 private_only: true
 ---
 
-# Edexcel IGCSE 4EA1 — AO1
-
 > **AO1** — read and understand a variety of texts, selecting and interpreting information, ideas and perspectives.
 
 *(Verbatim spec text private side only — © Pearson Education Limited 2025)*

@@ -10,8 +10,6 @@ oeas: curriculum-rigour, teaching-quality
 mastery_scale: applies
 ---
 
-# Presenting a personal and meaningful response
-
 The final outcome. Realising intentions. Demonstrating understanding of visual language — composition, colour, form, texture, scale, line. Producing work that is personal — that says something the learner means. The end-point of the creative journey.
 
 ## Tested by

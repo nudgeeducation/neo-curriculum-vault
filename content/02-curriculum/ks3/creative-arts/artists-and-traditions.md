@@ -11,8 +11,6 @@ mastery_scale: applies
 source: DfE (2014) Art and Design programmes of study, KS3 — Crown copyright
 ---
 
-# KS3 Creative Arts — Artists and traditions
-
 The fourth NC bullet for KS3 Art and Design: *"know about great artists, craft makers and designers, and understand the historical and cultural development of their art forms."*
 
 The contextual strand of KS3 Creative Arts. Encountering artists and traditions across history, geography, culture. Building a working sense of where the learner's own creative interests sit within wider human making.

@@ -11,8 +11,6 @@ mastery_scale: applies
 source: DfE (2014) Mathematics programmes of study, KS3 — Crown copyright
 ---
 
-# KS3 Maths — Geometry and measures
-
 Properties of 2D and 3D shapes. Angle properties. Area, perimeter, volume of common shapes. Transformations (reflection, rotation, translation, enlargement). Basic Pythagoras (introduced at KS3).
 
 ## NC outcomes (paraphrased)

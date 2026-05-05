@@ -10,8 +10,6 @@ mastery_scale: applies
 pfa: independent-living
 ---
 
-# Personal admin
-
 The bureaucratic infrastructure of being an adult. Banking — opening accounts, online and mobile banking, direct debits and standing orders, switching providers. ID — passports, driving licences, proof-of-address documentation, what to keep, what to renew when. Filling forms — government, NHS, council, employer, education provider. Utilities — switching gas, electricity, broadband; the energy price cap; reading meters. Contracts and agreements — phone contracts, gym memberships, subscription services; what to read before signing; how to cancel. The digital admin layer — passwords, two-factor authentication, password managers; saving documents; managing email.
 
 For neurodivergent learners especially, this strand needs explicit teaching — *executive-function-supported strategies for staying on top of admin*, not just a list of things to do. The pedagogy is that admin is *learnable systems*, not natural adult skill.

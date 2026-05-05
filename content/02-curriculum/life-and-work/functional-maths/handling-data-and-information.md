@@ -11,8 +11,6 @@ mastery_scale: applies
 pfa: independent-living, employment, community
 ---
 
-# Functional Maths — Handling data and information
-
 Working with statistical information in adult-life contexts. Reading and interpreting charts in news articles, bills, and reports. Calculating averages and ranges. Recognising basic probability. **Critically evaluating statistical claims** — when a graph is misleading, when a percentage is being used to manipulate, when a sample is too small to mean what someone is claiming.
 
 This strand has a critical-numeracy thread that the FS Subject Content names but doesn't dwell on. NEO's framing is to make critical numeracy explicit — adult life is full of statistical persuasion, and a learner who can spot it has real protection.

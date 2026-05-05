@@ -11,8 +11,6 @@ mastery_scale: applies
 source: DfE (2014) Mathematics programmes of study, KS3 — Crown copyright
 ---
 
-# KS3 Maths — Algebra
-
 Letters as variables. Expressions, equations, formulae, and identities. Sequences. Simple linear graphs. The discipline of generalising from particular cases.
 
 ## NC outcomes (paraphrased)

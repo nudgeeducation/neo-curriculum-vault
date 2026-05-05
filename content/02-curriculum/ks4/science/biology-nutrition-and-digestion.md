@@ -10,8 +10,6 @@ oeas: curriculum-rigour, teaching-quality
 mastery_scale: applies
 ---
 
-# Nutrition, digestion, and energy
-
 Nutrients and their functions (carbohydrates, proteins, lipids, vitamins, minerals, water, fibre). Energy requirements. Balanced diet. Structure and function of the digestive system. Mechanical and chemical digestion. Absorption. Disorders related to diet (obesity, malnutrition, eating disorders — handled with care for EBSNA cohort per the Cornerstones / RSHE / PSHE Mapping).
 
 ## Tested by

@@ -11,8 +11,6 @@ mastery_scale: applies
 pfa: employment, independent-living, community
 ---
 
-# Pathways and progression
-
 The architecture of post-16 and post-18 options. Apprenticeships (Levels 2, 3, higher, degree). Further Education colleges. Sixth form. T Levels. University (and the Access to HE diploma route for learners who haven't taken the A-Level pathway). Direct employment. Self-employment and sole trading. Volunteering as a stepping-stone. Gap years (intentional vs drifting).
 
 The point of this strand is *not* to recommend one pathway over another. It is to ensure each learner has a realistic mental map of the system they're navigating — including the routes that traditional careers advice often under-emphasises.

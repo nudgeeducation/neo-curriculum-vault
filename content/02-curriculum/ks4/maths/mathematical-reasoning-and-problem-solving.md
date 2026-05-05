@@ -10,8 +10,6 @@ oeas: curriculum-rigour, teaching-quality
 mastery_scale: applies
 ---
 
-# Mathematical reasoning, problem-solving, and communication
-
 The cross-cutting capability strand of KS4 maths. Translating problems into mathematical processes; constructing chains of reasoning; presenting arguments and proofs; interpreting and communicating mathematical information. Recognising when an answer is sensible, when a method is rigorous, and when a strategy needs revision.
 
 This strand is content-independent — it cuts across Number, Algebra, Ratio/Proportion, Geometry, Probability, and Statistics. Each awarding body weights and assesses it differently.

@@ -10,8 +10,6 @@ oeas: curriculum-rigour, teaching-quality
 mastery_scale: applies
 ---
 
-# Portfolio practice as evidence
-
 The meta-skill of curating one's own learning visibly over time. Selecting work for inclusion. Sequencing it. Showing the journey from initial idea to final outcome. Holding the audience — examiner, commissioner, future self, future employer — in mind as you assemble the body of work.
 
 This is unique among NEO's KS4 strands in that **the portfolio model that Art and Design teaches by qualification structure is the same model NEO is building learner-wide via Layer B (the portable portfolio architecture)**.

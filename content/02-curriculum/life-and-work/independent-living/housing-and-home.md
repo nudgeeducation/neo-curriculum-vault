@@ -10,8 +10,6 @@ mastery_scale: applies
 pfa: independent-living, community
 ---
 
-# Housing and home
-
 The architecture of having a place to live. How tenancy works (assured shorthold, joint vs sole, periodic vs fixed-term). Reading a tenancy agreement. Deposits and the deposit protection scheme. Sharing a house — house rules, bills, communal upkeep. The legal rights of tenants. What to do when a landlord won't repair, won't return a deposit, or wants to evict. Routes when housing fails — homelessness applications, supported housing, mental-health-aware housing, hostel pathways, family conciliation.
 
 For NEO's cohort, who may be approaching housing later than peers (or in non-standard ways — supported living, residential care, family carer), this strand needs to be honest about diverse housing realities, not assume the standard "rent your first flat at 22" trajectory.

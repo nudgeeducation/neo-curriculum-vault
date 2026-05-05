@@ -3,8 +3,6 @@ title: Life and Work — Financial Literacy (canonical)
 tags: [curriculum/life-and-work]
 ---
 
-# Life and Work — Financial Literacy (canonical)
-
 The money skills of an adult life. Earning, spending, saving, borrowing, planning. Banking and financial products. Tax basics. Consumer rights and protection from scams. The financial decisions that shape a working life — housing finance, pension, insurance, big purchases.
 
 NEO's framing is that financial literacy is not an extracurricular add-on but **canonical content**. The Cornerstones / RSHE / PSHE Mapping v0.1 (March 2026) names it as a "quick win — free, ready-made" via Barclays Life Skills and HMRC resources, and a high-value addition to the curriculum especially for KS4 / preparing-for-adulthood and learners leaving care.

@@ -11,8 +11,6 @@ mastery_scale: applies
 pfa: employment, community
 ---
 
-# Workplace skills and conduct
-
 Being a colleague. Professional communication — meetings, emails, instant messaging, hybrid and remote working. Time management. Asking for help. Giving and receiving feedback. Working with people who are not like you. Holding boundaries. Handling conflict.
 
 ## What this includes

@@ -3,8 +3,6 @@ title: Nutrition
 tags: [cornerstone, cornerstone/nutrition]
 ---
 
-# Nutrition
-
 The body, food, health, and physical self-care. Understanding the relationship between physical state, wellbeing, and the capacity to learn.
 
 ## Primary qualifications and strands

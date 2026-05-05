@@ -10,8 +10,6 @@ oeas: curriculum-rigour, teaching-quality
 mastery_scale: applies
 ---
 
-# Health, disease, immunity, and lifestyle
-
 Communicable and non-communicable disease. Pathogens (bacteria, viruses, fungi, protists). The immune system: white blood cells, antibodies, antitoxins, vaccination. Antibiotics and antibiotic resistance. Lifestyle factors: smoking, alcohol, exercise, diet. Public health and prevention. Medical interventions.
 
 ## Tested by

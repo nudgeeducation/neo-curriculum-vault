@@ -2,8 +2,6 @@
 title: NEO Curriculum Vault
 ---
 
-# NEO Curriculum Vault
-
 The canonical curriculum library for **Nudge Education Online (NEO)**, operated by Nudge Education Ltd.
 
 This vault is structured around the **NEO Curriculum Vault Tagging Schema v0.2** — five primary tag families (Cornerstone × Mode × Framework × Level × Outcome), four auxiliary tag families (PfA × Need × OEAS × Exam Pathway), one Mastery scale, and one quality marker (Verse-ality Certified). Read the schema before adding or editing nodes.

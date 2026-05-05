@@ -8,8 +8,6 @@ weighting: 12–18% of qualification
 private_only: true
 ---
 
-# Edexcel IGCSE 4MA1 — AO3 Handling Data
-
 > **AO3** — Demonstrate knowledge, understanding and skills in handling data: statistics; probability.
 
 *(Verbatim spec text private side only — © Pearson Education Limited 2017)*

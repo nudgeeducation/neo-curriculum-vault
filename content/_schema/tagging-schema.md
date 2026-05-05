@@ -9,8 +9,6 @@ classification: Internal — not for external distribution without sign-off
 supersedes: NEO_Curriculum_Vault_Tagging_Schema_v0.2.md (5 May 2026)
 ---
 
-# NEO Curriculum Vault — Tagging Schema
-
 ## Working draft v0.3
 
 Drafted by Claude in Cowork with Kirstin Stevens, Director NEO & Head of School. v0.2 → v0.3 update on 5 May 2026, restructuring the architecture from a single Framework axis into a **Curriculum × Overlay** two-axis model — canonical curriculum spine with awarding-body specifications as overlays.

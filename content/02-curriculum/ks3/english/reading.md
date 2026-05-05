@@ -11,8 +11,6 @@ mastery_scale: "applies (KS3 levels: developing / secure / mastering)"
 source: DfE (2014) English programmes of study, KS3 — Crown copyright
 ---
 
-# KS3 English — Reading
-
 Reading widely and often, both whole books and substantial extracts. Critical comprehension and inference. Knowing how language, both spoken and written, can be used to express meaning, mood, and tone. Encountering rich, challenging, and varied texts including: pre-1914 and contemporary literature, drama, poetry, fiction and non-fiction.
 
 ## NC outcomes (paraphrased; full text on gov.uk)

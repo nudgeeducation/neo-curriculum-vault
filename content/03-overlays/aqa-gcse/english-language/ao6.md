@@ -9,8 +9,6 @@ section: B (Writing)
 private_only: true
 ---
 
-# AQA GCSE 8700 — AO6
-
 > **AO6** — Use a range of vocabulary and sentence structures for clarity, purpose and effect, with accurate spelling and punctuation.
 
 *(Verbatim spec text private side only — © AQA)*

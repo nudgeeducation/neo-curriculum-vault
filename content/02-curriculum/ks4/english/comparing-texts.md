@@ -10,8 +10,6 @@ oeas: curriculum-rigour
 mastery_scale: applies
 ---
 
-# Comparing writers' ideas and perspectives
-
 Comparing how different writers present ideas, perspectives, viewpoints, and arguments across two or more texts. Recognising similarities and differences in content, tone, methods, and purpose. Drawing conclusions from the comparison.
 
 This strand is consistent across Edexcel IGCSE and AQA GCSE; it is not present at FS Level 2.

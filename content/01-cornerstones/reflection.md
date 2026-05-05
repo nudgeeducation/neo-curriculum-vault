@@ -3,8 +3,6 @@ title: Reflection
 tags: [cornerstone, cornerstone/reflection]
 ---
 
-# Reflection
-
 Self-awareness, critical inquiry, and metacognition. Learning that asks young people to examine meaning, motivation, and values — including their own.
 
 ## Primary qualifications and strands

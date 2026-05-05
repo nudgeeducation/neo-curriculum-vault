@@ -7,8 +7,6 @@ mode_intended: live, asynchronous
 oeas: curriculum-rigour, teaching-quality
 ---
 
-# Edexcel IGCSE English Literature
-
 Literary analysis as structured practice in empathy. Texts chosen collaboratively where possible — small enactment of the practitioner-as-guide model.
 
 **Cornerstones:** [[../../../01-cornerstones/reflection|Reflection]] (●●●), [[../../../01-cornerstones/connection|Connection]] (●●●)

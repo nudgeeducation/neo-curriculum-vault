@@ -9,8 +9,6 @@ section: A (Reading)
 private_only: true
 ---
 
-# AQA GCSE 8700 — AO2
-
 > **AO2** — Explain, comment on and analyse how writers use language and structure to achieve effects and influence readers, using relevant subject terminology to support their views.
 
 *(Verbatim spec text private side only — © AQA)*

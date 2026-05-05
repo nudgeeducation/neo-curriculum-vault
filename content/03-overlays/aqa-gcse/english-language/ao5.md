@@ -9,8 +9,6 @@ section: B (Writing)
 private_only: true
 ---
 
-# AQA GCSE 8700 — AO5
-
 > **AO5** — Communicate clearly, effectively and imaginatively, selecting and adapting tone, style and register for different forms, purposes and audiences. Organise information and ideas, using structural and grammatical features to support coherence and cohesion of texts.
 
 *(Verbatim spec text private side only — © AQA)*

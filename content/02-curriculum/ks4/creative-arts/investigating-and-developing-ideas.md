@@ -10,8 +10,6 @@ oeas: curriculum-rigour, teaching-quality
 mastery_scale: applies
 ---
 
-# Investigating and developing ideas
-
 The starting point of every creative project. Researching primary sources (real-world observation, found objects, places, people, materials) and contextual sources (artists' work, movements, cultural traditions). Demonstrating critical understanding of how those sources inform the learner's own developing ideas. Building a visible chain of investigation that leads from initial stimulus to artistic intention.
 
 ## Tested by

@@ -9,8 +9,6 @@ section: A (Reading)
 private_only: true
 ---
 
-# Edexcel IGCSE 4EA1 — AO2
-
 > **AO2** — understand and analyse how writers use linguistic and structural devices to achieve their effects.
 
 *(Verbatim spec text private side only — © Pearson Education Limited 2025)*

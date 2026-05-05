@@ -9,8 +9,6 @@ section: A (Reading)
 private_only: true
 ---
 
-# Edexcel IGCSE 4EA1 — AO3
-
 > **AO3** — explore links and connections between writers' ideas and perspectives, as well as how these are conveyed.
 
 *(Verbatim spec text private side only — © Pearson Education Limited 2025)*

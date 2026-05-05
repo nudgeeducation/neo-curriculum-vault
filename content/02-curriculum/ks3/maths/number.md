@@ -11,8 +11,6 @@ mastery_scale: applies
 source: DfE (2014) Mathematics programmes of study, KS3 — Crown copyright
 ---
 
-# KS3 Maths — Number
-
 Place value and ordering. Integer arithmetic and decimals. Fractions, decimals, percentages and the connections between them. Ratio and proportion. Powers, roots, and indices. Rounding and estimation.
 
 ## NC outcomes (paraphrased)

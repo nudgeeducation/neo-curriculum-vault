@@ -10,8 +10,6 @@ oeas: curriculum-rigour
 mastery_scale: applies
 ---
 
-# Critical evaluation
-
 Evaluating texts critically — agreeing or disagreeing with writers' methods or claims, judging the success or failure of a writer's strategy, supporting evaluations with textual references. The strand asks the reader to take a position, not just describe.
 
 Critical evaluation is an explicit strand in AQA GCSE (AO4). In Edexcel IGCSE it is woven into AO2 and the wider analytical task rather than separated as its own AO. FS Level 2 includes some critical reading but at a different register (e.g. detecting bias in everyday non-fiction).

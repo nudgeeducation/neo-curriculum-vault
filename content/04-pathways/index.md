@@ -3,8 +3,6 @@ title: Pathways
 tags: [pathway-index]
 ---
 
-# Pathways
-
 How learners actually progress through and across the curriculum and have their learning anchored to recognised frameworks.
 
 - [[preparing-for-adulthood|Preparing for Adulthood]] — four PfA outcomes from the SEND Code of Practice

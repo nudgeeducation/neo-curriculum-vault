@@ -11,8 +11,6 @@ mastery_scale: applies
 source: DfE (2014) Mathematics programmes of study, KS3 — Crown copyright
 ---
 
-# KS3 Maths — Probability
-
 Probability scale. Single-event probability. Theoretical and experimental probability. Simple combined events.
 
 ## NC outcomes (paraphrased)

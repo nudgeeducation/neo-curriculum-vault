@@ -4,8 +4,6 @@ tags: [curriculum/statutory]
 status: populated
 ---
 
-# RSHE — Relationships Education
-
 Statutory for all secondary-age learners in England (Children and Social Work Act 2017; 2026 statutory guidance, effective 1 September 2026). **No parental opt-out** — Relationships Education applies to every learner.
 
 For NEO's EBSNA / SEMH cohort, the 2026 guidance is unusually relevant: many of the statutory topics are exactly the relational territory the cohort is navigating in their own lives. *"Specific thought should be given to the particular needs and vulnerabilities of the pupils and what adjustments might be needed."*

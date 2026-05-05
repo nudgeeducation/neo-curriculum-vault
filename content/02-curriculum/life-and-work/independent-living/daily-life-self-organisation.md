@@ -10,8 +10,6 @@ mastery_scale: applies
 pfa: independent-living, good-health
 ---
 
-# Daily-life self-organisation
-
 The rhythm of a day. Cooking — food shopping, basic meal preparation, batch cooking, food safety, cooking on a budget. Time management — calendars, reminders, planning a week, planning around energy patterns. Transport — public transport, navigation apps, journey planning, driving (where applicable). Emergencies — when and how to call 999 / 111; first aid basics; what to keep in a first-aid kit; where the gas / water / electricity shutoffs are. Coordinating with others — housemates, family, services, deliveries. Cleaning and home upkeep.
 
 The shape of this strand is *visibly different* for different learners — disabled learners, learners in residential care, learners with caring responsibilities will have different specific tasks but the same underlying skill: organising your own life with intention.

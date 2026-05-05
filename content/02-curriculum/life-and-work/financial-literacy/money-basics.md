@@ -10,8 +10,6 @@ mastery_scale: applies
 pfa: independent-living, employment
 ---
 
-# Money basics
-
 Income, spending, saving, debt. The basic equation of staying afloat. Budgeting — keeping track of what comes in vs what goes out. The difference between needs and wants (without moralising). The mechanics of debt — how interest accumulates; the difference between cheap debt (mortgages, low-interest credit) and expensive debt (payday loans, high-APR credit cards, BNPL spirals); when debt is sensible and when it is dangerous. Saving — what counts as an emergency fund, why it matters, how to start small.
 
 For NEO's cohort, money basics often need to be taught alongside the *emotional* dimension of money — money shame, money avoidance, family money patterns, financial trauma. The pedagogy is honest about that — adult-life money skills are often *re-learning* skills the learner had no permission to develop earlier.

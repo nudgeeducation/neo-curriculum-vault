@@ -8,8 +8,6 @@ weighting: 60% of qualification
 private_only: true
 ---
 
-# AQA GCSE Art and Design — Component 1: Portfolio
-
 A body of work developed over the course of study, evidencing the four AOs. AQA weights the portfolio higher than Edexcel does — 60% of grade vs Edexcel's 50%. For learners who do best with sustained, low-stakes engagement and struggle with the externally-set time-bound response, the AQA component weighting is more favourable.
 
 ## Tests canonical

@@ -10,8 +10,6 @@ oeas: curriculum-rigour
 mastery_scale: applies
 ---
 
-# Cells, tissues, and the molecules of life
-
 Cell structure as observed under microscopes (light and electron). Functions of cell organelles (nucleus, mitochondria, ribosomes, ER, cell membrane). DNA structure, replication, and the genetic code. Protein synthesis and gene expression. Stem cells and mitosis. Tissue organisation. Biological molecules — carbohydrates, proteins, lipids, enzymes. Movement of substances by diffusion, osmosis, and active transport.
 
 ## Tested by

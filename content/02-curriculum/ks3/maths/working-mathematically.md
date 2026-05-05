@@ -11,8 +11,6 @@ mastery_scale: applies
 source: DfE (2014) Mathematics programmes of study, KS3 — Crown copyright
 ---
 
-# KS3 Maths — Working mathematically
-
 The cross-cutting capability strand of KS3 Maths. The NC document names this as the bedrock of mathematical learning at this stage — three threads:
 
 - **Develop fluency** — consolidate numerical and mathematical capability; extend understanding of the number system; move freely between different numerical, algebraic, graphical, and diagrammatic representations

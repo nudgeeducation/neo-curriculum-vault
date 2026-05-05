@@ -10,8 +10,6 @@ mastery_scale: applies
 pfa: community, employment, independent-living
 ---
 
-# Rights, responsibilities, and equality
-
 The framework of rights and responsibilities in UK law. The Human Rights Act 1998 — the rights it protects, where it does and doesn't apply, its relationship with the European Convention on Human Rights. The Equality Act 2010 — protected characteristics (age, disability, gender reassignment, marriage and civil partnership, pregnancy and maternity, race, religion or belief, sex, sexual orientation), direct and indirect discrimination, harassment, victimisation, the duty of reasonable adjustment.
 
 Responsibilities — duties as a citizen (taxes, lawful conduct, jury service if called). Tensions — when rights conflict; when freedoms reach their limits; when responsibilities to community modify individual rights. The difference between *legal* rights and *moral* claims.

@@ -3,8 +3,6 @@ title: Life and Work — Independent Living (canonical)
 tags: [curriculum/life-and-work]
 ---
 
-# Life and Work — Independent Living (canonical)
-
 The practical skills of running one's own life. Housing, healthcare, personal admin, daily-life self-organisation, public services, transport, emergencies. Held as **canonical content in its own right** — for many EBSNA / SEMH learners, these are the genuinely hard skills, harder than English Literature, and they deserve the same explicit teaching.
 
 ## Strands

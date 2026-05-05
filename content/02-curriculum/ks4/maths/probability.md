@@ -10,8 +10,6 @@ oeas: curriculum-rigour
 mastery_scale: applies
 ---
 
-# Probability
-
 Basic probability. Single and combined events. Tree diagrams, Venn diagrams, two-way tables. Mutually exclusive and independent events. Conditional probability (Higher). Probability as a fraction, decimal, or percentage.
 
 ## Tested by

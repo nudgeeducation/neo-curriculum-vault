@@ -3,8 +3,6 @@ title: Life and Work — Functional Maths (canonical)
 tags: [curriculum/life-and-work]
 ---
 
-# Life and Work — Functional Maths (canonical)
-
 Maths for adult-life purposes. Working with numbers, measures, and data the way an adult uses them — at work, at home, in services, in shops, in conversation with a council or a bank or a healthcare provider. **Canonical content in its own right** — not a watered-down version of academic maths.
 
 The position the v0.3 schema takes is structural: Functional Maths is *parallel canonical content*, not an overlay of NC Maths. Its outcomes (work out the cost of a tradesperson's quote, calculate medication doses, read a payslip, interpret a bar chart in a news article) are the learning, not a lesser form of the learning.

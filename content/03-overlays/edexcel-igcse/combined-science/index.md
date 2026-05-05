@@ -5,8 +5,6 @@ spec: Pearson Edexcel International GCSE Science (Double Award) — Specificatio
 source_pdf: /Users/kirstinstevens/Desktop/Nudge Curriculum/Science/Double Award/international-gcse-science-double-award-2017-specification1.pdf
 ---
 
-# Edexcel IGCSE Combined Science (Double Award) — 4SD0
-
 NEO's broader science pathway, for learners with academic ambitions or where the EHCP specifies broader curriculum coverage. Counts as **two GCSEs** (double award). Covers biology, chemistry, and physics in a single qualification.
 
 ## Papers

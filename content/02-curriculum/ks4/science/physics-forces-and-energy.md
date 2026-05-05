@@ -11,8 +11,6 @@ mastery_scale: applies
 status: physics-stub-awaiting-deeper-population
 ---
 
-# Physics — forces and energy
-
 Canonical KS4 Physics strand. Relevant to **Combined Science** learners only.
 
 ## Tested by

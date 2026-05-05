@@ -10,8 +10,6 @@ mastery_scale: applies
 pfa: community, employment, good-health
 ---
 
-# Civic engagement and global citizenship
-
 The active dimension of being a citizen. Volunteering — local, national, international; the commitments and the limits. Campaigning — formal organisations and grassroots movements. Petitioning — Parliament's e-petition system, council petitions, broader campaigning. Trade unions and professional bodies as forms of civic association. Mutual aid and community organising. Climate action — local and global, individual and collective.
 
 The global dimension — the UN, the role of international law, climate negotiations, refugee and migration frameworks, what it means to be a citizen of a country in a globally interconnected world. The difficult question of how individual responsibility relates to systemic change.

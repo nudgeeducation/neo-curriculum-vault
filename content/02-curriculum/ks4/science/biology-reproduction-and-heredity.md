@@ -10,8 +10,6 @@ oeas: curriculum-rigour
 mastery_scale: applies
 ---
 
-# Reproduction, heredity, and genetics
-
 Sexual and asexual reproduction. The human reproductive system. Menstrual cycle and contraception (in coordination with [[../../../02-curriculum/statutory/rshe/sex-education/index|RSHE — Sex Education]]). Pregnancy, fetal development, and birth. Inheritance: alleles, genotypes, phenotypes, monohybrid crosses. Genetic variation and evolution. Genetic disorders.
 
 ## Tested by

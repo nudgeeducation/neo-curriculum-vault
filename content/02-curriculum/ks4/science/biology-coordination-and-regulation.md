@@ -10,8 +10,6 @@ oeas: curriculum-rigour, teaching-quality
 mastery_scale: applies
 ---
 
-# Coordination and the body's regulation
-
 The nervous system: structure and function of neurones, the central nervous system, the brain (cerebral hemispheres, cerebellum, hypothalamus, pituitary), reflex arcs, sensory receptors, synapses. The hormonal system: pituitary, thyroid, adrenal, pancreas, gonads. Sense organs (eye, ear). Homeostasis: temperature, water balance, blood glucose. The interaction of nervous and hormonal regulation.
 
 ## Tested by

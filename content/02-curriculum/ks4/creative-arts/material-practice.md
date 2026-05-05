@@ -10,8 +10,6 @@ oeas: curriculum-rigour
 mastery_scale: applies
 ---
 
-# Material practice
-
 The actual making, in the medium the learner has chosen as their endorsement. Drawing, painting, photography, textiles, 3D making, digital art, printmaking, mixed media. Technical skill in the chosen medium. Knowledge of how that medium behaves, what it can be made to do, where its limits are.
 
 ## Tested by

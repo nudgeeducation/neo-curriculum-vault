@@ -10,8 +10,6 @@ oeas: curriculum-rigour
 mastery_scale: applies
 ---
 
-# Imaginative and creative writing
-
 Original narrative, descriptive, and creative composition. Inventing characters, settings, and situations; controlling voice, tone, and pacing; using figurative language; engaging the reader through craft choices.
 
 Tested explicitly in Edexcel IGCSE Component 2 (or 3 for the NEA route) and in AQA GCSE Paper 1 Section B. Functional Skills English does not test creative writing — its writing focus is functional / transactional only — so this strand has no FS overlay.

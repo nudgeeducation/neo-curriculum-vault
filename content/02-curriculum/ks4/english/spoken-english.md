@@ -10,8 +10,6 @@ oeas: curriculum-rigour, teaching-quality
 mastery_scale: applies
 ---
 
-# Spoken English
-
 Preparing and delivering spoken language in formal contexts; listening to others and responding constructively; adapting register and content to audience. Across the three overlays this is treated differently — separately endorsed (Edexcel, AQA), or threaded into the qualification (FS Level 2).
 
 ## Tested by

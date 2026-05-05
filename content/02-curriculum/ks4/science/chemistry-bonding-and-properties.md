@@ -11,8 +11,6 @@ mastery_scale: applies
 status: chemistry-stub-awaiting-deeper-population
 ---
 
-# Chemistry — bonding and properties
-
 Canonical KS4 Chemistry strand. Relevant to **Combined Science** learners only — Edexcel IGCSE Human Biology does not cover Chemistry content. AQA GCSE Combined Science Trilogy and Edexcel IGCSE Combined Science Double Award both cover this territory.
 
 ## Tested by

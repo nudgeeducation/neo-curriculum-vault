@@ -10,8 +10,6 @@ reporting: separately reported alongside the 9–1 GCSE grade
 private_only: true
 ---
 
-# AQA GCSE 8700 — Spoken Language Endorsement (AO7–AO9)
-
 Three Assessment Objectives cover the spoken-language endorsement, which is internally assessed and separately reported.
 
 > **AO7** — Demonstrate presentation skills in a formal setting.

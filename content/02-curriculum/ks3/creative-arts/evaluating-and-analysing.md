@@ -11,8 +11,6 @@ mastery_scale: applies
 source: DfE (2014) Art and Design programmes of study, KS3 — Crown copyright
 ---
 
-# KS3 Creative Arts — Evaluating and analysing creative works
-
 The third NC bullet for KS3 Art and Design: *"evaluate and analyse creative works using the language of art, craft and design."*
 
 The critical-and-reflective strand of KS3 Creative Arts. Building the language to talk about creative work — both other people's and one's own. Composition, colour, line, form, texture, scale. Recognising intentions and effects. Speaking and writing about art with precision.

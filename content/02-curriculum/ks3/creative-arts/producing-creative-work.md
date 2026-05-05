@@ -11,8 +11,6 @@ mastery_scale: "applies (KS3 levels: developing / secure / mastering)"
 source: DfE (2014) Art and Design programmes of study, KS3 — Crown copyright
 ---
 
-# KS3 Creative Arts — Producing creative work
-
 The first NC bullet for KS3 Art and Design: *"produce creative work, exploring their ideas and recording their experiences."*
 
 The making strand of KS3 Creative Arts. Original work in the medium of the learner's choice — drawing, painting, sculpture, photography, digital art, mixed media. Recording experiences (sketchbooks, journals, voice memos, photographs). Exploring ideas through the act of making, not just before it.

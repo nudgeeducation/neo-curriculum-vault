@@ -3,8 +3,6 @@ title: Cornerstones
 tags: [cornerstone-index]
 ---
 
-# Cornerstones
-
 The six Cornerstones are NEO's pedagogical framing layer, drawn from Bronfenbrenner's ecological model, Bowlby's attachment theory, and Dweck's work on growth mindset. Every NEO learning experience must serve at least one Cornerstone, both in what it teaches and in how it is taught.
 
 Cornerstones are defined in the [Teaching and Learning Policy v04.26](https://nudgeeducation.github.io/nudge-policy-vault/neo-only/neo-teaching-and-learning-policy) §1 and the Curriculum Rationale v2.0.

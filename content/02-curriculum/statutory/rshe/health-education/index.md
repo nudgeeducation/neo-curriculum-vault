@@ -4,8 +4,6 @@ tags: [curriculum/statutory]
 status: populated
 ---
 
-# RSHE — Health Education
-
 Statutory in maintained secondary schools and academies. NEO is independent alternative provision — *technically* not legally bound by the Health Education sections — but per the [[../../../../Nudge_Cornerstones_RSHE_PSHE_Mapping_v0.1.docx|Cornerstones / RSHE / PSHE Mapping v0.1]], NEO covers Health Education as best practice and as integrated curriculum delivery, not as a separate timetable strand.
 
 For NEO's EBSNA cohort, Health Education is one of the most directly therapeutic curriculum areas — the content (mental wellbeing, sleep, regulation, body literacy, drug awareness) sits at the heart of what the cohort is already navigating in lived experience.

@@ -4,8 +4,6 @@ tags: [curriculum/statutory]
 status: populated
 ---
 
-# RSHE — Online Safety
-
 Cross-cutting statutory area, expanded substantially in the 2026 RSHE guidance to reflect the changed digital landscape since the original 2020 framework. Carries additional weight at NEO because **NEO is a fully online provision** — every learner spends substantial time in digital environments as a routine part of their education.
 
 This is the area where the Verse-ality framework that anchors NEO's [[../../../_schema/tagging-schema|tagging schema]] meets the statutory curriculum most directly.

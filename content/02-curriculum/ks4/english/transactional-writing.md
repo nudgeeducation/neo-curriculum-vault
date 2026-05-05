@@ -10,8 +10,6 @@ oeas: curriculum-rigour, teaching-quality
 mastery_scale: applies
 ---
 
-# Transactional and functional writing
-
 Communicating effectively in writing for specific purposes and audiences. Adapting form, tone, register, and structure to suit context. The shared territory of transactional writing across all three overlays — articles, speeches, letters, guides, reviews, leaflets, applications, complaints, viewpoint pieces.
 
 This is the writing strand most closely shared with [[../../life-and-work/functional-english/index|Life and Work — Functional English]]. The canonical content is the same; only the assessment context differs.

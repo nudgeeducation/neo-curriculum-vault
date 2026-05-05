@@ -10,8 +10,6 @@ oeas: curriculum-rigour
 mastery_scale: applies
 ---
 
-# Algebra
-
 Working with letters as variables and unknowns. Expressions, equations, formulae, identities. Linear, quadratic, simultaneous equations and inequalities. Sequences, functions, graphs. The discipline of generalising from particular cases to mathematical structure.
 
 ## Tested by

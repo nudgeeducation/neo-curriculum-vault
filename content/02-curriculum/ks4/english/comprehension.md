@@ -10,8 +10,6 @@ oeas: curriculum-rigour, teaching-quality
 mastery_scale: applies
 ---
 
-# Comprehension and inference of unseen texts
-
 Selecting and interpreting explicit and implicit information from unseen texts. Across the three overlays, the texts span fiction (20th and 21st century prose), non-fiction (literary non-fiction, journalism, autobiography, travel writing, speeches, letters), and 19th-century texts (in AQA Paper 2 specifically). Functional Skills English Level 2 narrows the focus to non-fiction texts learners encounter in adult life — workplace documents, public information, contracts, complaints.
 
 The canonical learning is the same: read carefully, identify what's stated, infer what's implied, synthesise across multiple texts where necessary.

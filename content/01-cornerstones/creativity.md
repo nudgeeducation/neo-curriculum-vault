@@ -3,8 +3,6 @@ title: Creativity
 tags: [cornerstone, cornerstone/creativity]
 ---
 
-# Creativity
-
 Original expression, making, play, and divergent thinking. Learning where there is no single right answer, and the process of creation is itself educationally valid.
 
 ## Primary qualifications and strands

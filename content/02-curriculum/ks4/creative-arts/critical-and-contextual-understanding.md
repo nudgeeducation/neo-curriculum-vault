@@ -10,8 +10,6 @@ oeas: curriculum-breadth, curriculum-rigour
 mastery_scale: applies
 ---
 
-# Critical and contextual understanding
-
 Art-historical and cultural understanding. Artists' methods and intentions. Movements, traditions, debates. Ethics of representation — whose voice, whose gaze, whose subject? This strand is woven through AO1 (investigating sources) and AO4 (realising intentions in dialogue with a tradition), but worth its own canonical home because it is what distinguishes Art and Design from craft alone.
 
 ## Tested by

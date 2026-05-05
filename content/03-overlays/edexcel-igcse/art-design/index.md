@@ -8,8 +8,6 @@ first_assessed: June 2019
 source_pdf: /Users/kirstinstevens/Desktop/Nudge Curriculum/Art & Design/art-design-spec-updated.pdf
 ---
 
-# Edexcel IGCSE Art and Design
-
 The portfolio-only IGCSE in NEO's Year 1 offer. No exam component at any tier. Per the [Curriculum Rationale v2.0](https://nudgeeducation.github.io/nudge-policy-vault/) §4c, structurally unlike any other qualification in the offer — *"a young person who has been out of education for twelve months and cannot yet tolerate timed assessment can still begin building an Art portfolio from the first session."*
 
 ## Endorsement (chosen at registration)

@@ -12,8 +12,6 @@ pfa: employment, good-health
 need: social-emotional-mental-health
 ---
 
-# Work and life
-
 The relationship between work and the rest of being a person. Why work matters (and why it sometimes doesn't). Meaning and vocation. Work-life balance and burnout. Mental health at work — including the protections, the supports, and the realistic limits of what an employer can be expected to hold. The shape of a working life across decades.
 
 For NEO's EBSNA / SEMH cohort, this strand is non-negotiable. Many of the learners arrive at NEO because *school* didn't work; some of the same patterns show up in *work*. Equipping a young person to recognise when work is sustainable for them — and when it isn't — is part of the safeguarding the school's wider model has been doing all along.

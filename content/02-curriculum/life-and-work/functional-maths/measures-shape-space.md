@@ -11,8 +11,6 @@ mastery_scale: applies
 pfa: independent-living, employment, good-health
 ---
 
-# Functional Maths — Common measures, shape, and space
-
 Units of length, weight, capacity, money, time, and temperature. Conversions between metric and imperial. Area, perimeter, and volume of common shapes — for floor plans, gardens, packaging, containers. Compound measures (speed, density, dose). Scale drawings and maps.
 
 The framing is everyday adult life: measuring up a room, calculating paint needed, planning a journey time, working out medication dosage, reading a recipe in the wrong units.

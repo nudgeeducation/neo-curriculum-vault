@@ -10,8 +10,6 @@ oeas: curriculum-breadth, curriculum-rigour
 mastery_scale: applies
 ---
 
-# Functional English — Reading adult-life texts
-
 Comprehension, inference, and critical evaluation of texts a learner will encounter in adult life: workplace documents, public information, contracts and tenancy agreements, journalism, public-sector forms, healthcare information, advertising, political messaging.
 
 Distinguishing fact from opinion. Recognising bias and persuasion. Detecting unreliability. Reading critically — not naively — when the writer has a stake in what the reader takes away.

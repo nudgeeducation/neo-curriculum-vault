@@ -10,8 +10,6 @@ oeas: curriculum-rigour
 mastery_scale: applies
 ---
 
-# Vocabulary, grammar, spelling, punctuation
-
 Accurate use of language conventions in writing. A wide and apt vocabulary. Varied sentence structures used purposefully. Spelling and punctuation accurate to a level appropriate to the qualification.
 
 This strand applies across all writing tasks in all three overlays — but is also separately assessed as its own AO. Functional Skills English Level 2 has detailed criteria here; AQA gives the SPaG strand a dedicated AO; Edexcel weaves it through AO5.

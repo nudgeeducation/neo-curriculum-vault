@@ -4,8 +4,6 @@ tags: [curriculum/statutory]
 status: populated
 ---
 
-# RSHE — Sex Education
-
 Statutory at secondary level (Children and Social Work Act 2017; 2026 guidance). **Parental right to withdraw** applies to the *sex education* component only — not to Relationships Education or Health Education.
 
 ## Statutory topics (secondary)

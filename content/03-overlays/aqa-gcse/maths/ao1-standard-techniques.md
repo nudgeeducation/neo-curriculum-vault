@@ -8,8 +8,6 @@ weighting: Foundation 50%, Higher 40%
 private_only: true
 ---
 
-# AQA GCSE 8300 — AO1 Use and apply standard techniques
-
 > **AO1** — Use and apply standard techniques. Students should be able to: accurately recall facts, terminology and definitions; use and interpret notation correctly; accurately carry out routine procedures or set tasks requiring multi-step solutions.
 
 *(Verbatim spec text private side only — © AQA)*

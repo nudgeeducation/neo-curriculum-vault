@@ -11,8 +11,6 @@ mastery_scale: applies
 source: DfE (2014) Science programmes of study, KS3 — Crown copyright
 ---
 
-# KS3 Science — Working scientifically
-
 The cross-cutting capability strand of KS3 Science. The NC names Working Scientifically as the foundation of all scientific learning at KS3, with five threads:
 
 - **Scientific attitudes** — pay attention to objectivity and concern for accuracy, precision, repeatability and reproducibility; understand that scientific methods and theories develop as earlier explanations are modified

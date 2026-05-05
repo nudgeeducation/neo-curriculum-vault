@@ -13,8 +13,6 @@ mastery_scale: not assessed
 need: communication-interaction, social-emotional-mental-health
 ---
 
-# Connection Elective
-
 Community, relationships, and communication skills, delivered weekly by the learner's named practitioner. The elective is the curriculum-level answer to *what NEO learners often most need*: practice at being in relationship safely, after experiences (school, family, friendships, online) that may have made being-in-relationship feel unsafe.
 
 For many EBSNA learners, the Connection Elective is the most important hour in their week. It is also the elective most likely to be opt-in for some weeks and opt-out for others, depending on capacity. Both are honoured.

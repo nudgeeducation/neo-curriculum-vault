@@ -10,8 +10,6 @@ oeas: curriculum-rigour
 mastery_scale: applies
 ---
 
-# Ratio, proportion, and rates of change
-
 Direct and inverse proportion. Growth and decay (linear, exponential, compound). Compound measures (speed, density, pressure). Conversion between units. Real-life rates and ratios.
 
 This strand is named explicitly by AQA as one of its six content domains. In Edexcel IGCSE it is woven through the Number and Algebra content. In FS Maths L2 it is delivered through measures, money, and the everyday-life framing.

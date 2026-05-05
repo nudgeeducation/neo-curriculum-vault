@@ -10,8 +10,6 @@ oeas: curriculum-rigour
 mastery_scale: applies
 ---
 
-# Bones, muscles, and movement
-
 The structure of the human skeleton (axial and appendicular). Long bone structure. Joints (synovial, fibrous, cartilaginous) and how they work. The relationship between voluntary muscles and bones to bring about movement (e.g. biceps and triceps). Dietary factors affecting bone health.
 
 ## Tested by

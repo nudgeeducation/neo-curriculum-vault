@@ -3,8 +3,6 @@ title: Rest
 tags: [cornerstone, cornerstone/rest]
 ---
 
-# Rest
-
 Nervous system regulation, recovery, and the right to pause.
 
 No exam qualification maps directly onto Rest — and this is an honest naming of a gap in what exam boards currently offer. Rest is embedded in *how* every NEO subject is taught:

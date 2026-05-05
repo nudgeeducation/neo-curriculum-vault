@@ -11,8 +11,6 @@ mastery_scale: applies
 source: DfE (2014) Science programmes of study, KS3 — Crown copyright
 ---
 
-# KS3 Science — Matter and chemistry
-
 The chemistry content of KS3 Science. The particle model. Atomic structure. Elements, compounds, mixtures. The Periodic Table at introductory level. Chemical reactions. Materials and their properties. Earth's atmosphere.
 
 ## NC outcomes (paraphrased)

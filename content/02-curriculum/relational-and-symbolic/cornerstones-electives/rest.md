@@ -13,8 +13,6 @@ mastery_scale: not assessed
 need: social-emotional-mental-health
 ---
 
-# Rest Elective
-
 Mindfulness, breathing, self-regulation techniques, delivered weekly by the learner's named practitioner. **Rest as active practice** — not the absence of activity but a deliberate skill: the practice of letting the nervous system settle, recovering attention, reclaiming the right to pause.
 
 For NEO's EBSNA / SEMH cohort, this elective is among the most directly therapeutic content in the offer. Many learners will arrive at NEO with chronically dysregulated nervous systems — the Rest Elective is a curriculum-level commitment to teaching them, deliberately, the regulation skills their bodies need.

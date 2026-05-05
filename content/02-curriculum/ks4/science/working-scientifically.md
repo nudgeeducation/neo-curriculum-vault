@@ -10,8 +10,6 @@ oeas: curriculum-rigour, teaching-quality
 mastery_scale: applies
 ---
 
-# Working scientifically
-
 The cross-cutting capability strand of KS4 science. Designing experiments. Selecting and using equipment. Making measurements. Recording data accurately. Analysing and interpreting data (including using mathematical and statistical techniques). Drawing conclusions. Evaluating methods and data quality. Communicating scientific findings. Considering ethical and societal implications.
 
 This strand is content-independent — it cuts across Biology, Chemistry, and Physics. AQA gives it explicit billing as the foundation of all scientific learning. Edexcel weaves it through every content area as "experimental skills."

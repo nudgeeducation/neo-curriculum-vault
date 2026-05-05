@@ -3,8 +3,6 @@ title: Life and Work — Employability (canonical)
 tags: [curriculum/life-and-work]
 ---
 
-# Life and Work — Employability (canonical)
-
 The canonical NEO content on getting work, doing work, and understanding work as part of an adult life. **Held as canonical content in its own right** — not a watered-down version of academic study, not a vocational add-on, but a substantial body of learning that NEO commits to teaching every learner because it is what they will need.
 
 This strand sits at the densest cross-roads in the vault. Incoming wikilinks come from:

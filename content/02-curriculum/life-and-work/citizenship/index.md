@@ -3,8 +3,6 @@ title: Life and Work — Citizenship (canonical)
 tags: [curriculum/life-and-work]
 ---
 
-# Life and Work — Citizenship (canonical)
-
 The civic dimensions of adult life. Democracy and political participation. The legal system. Rights, responsibilities, and equality. The welfare state and public services. Civic engagement and global citizenship. Held as **canonical content in its own right** — not a passing module on "British Values," but substantive learning about what it means to belong to and act within a democratic society.
 
 The 2014 KS3 NC includes Citizenship as a statutory subject (separate from the citizenship strand within RSHE). NEO doesn't run KS4 GCSE Citizenship Studies, but the canonical Life-and-Work strand at adult-life level extends what KS3 starts.

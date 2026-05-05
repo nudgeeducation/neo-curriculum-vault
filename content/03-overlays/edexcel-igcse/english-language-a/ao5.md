@@ -9,8 +9,6 @@ section: B (Writing)
 private_only: true
 ---
 
-# Edexcel IGCSE 4EA1 — AO5
-
 > **AO5** — write clearly, using a range of vocabulary and sentence structures, with appropriate paragraphing and accurate spelling, grammar and punctuation.
 
 *(Verbatim spec text private side only — © Pearson Education Limited 2025)*

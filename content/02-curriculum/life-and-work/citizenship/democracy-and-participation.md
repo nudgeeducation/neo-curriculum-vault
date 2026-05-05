@@ -10,8 +10,6 @@ mastery_scale: applies
 pfa: community, employment
 ---
 
-# Democracy and political participation
-
 How democratic government works in the UK. Parliament — House of Commons, House of Lords, the role of the monarch as constitutional head of state. The four nations and devolution — Scottish Parliament, Senedd Cymru, Northern Ireland Assembly. Local government — councils, mayors, councillors, parish/town councils. Political parties and the spectrum they cover. Voting — registering at 16 (electoral roll), voting at 18 (general elections; some local and devolved at 16), the different voting systems used (FPTP, AMS, STV). Beyond voting — petitioning, lobbying, protesting, campaigning, joining a party, standing as a candidate.
 
 Critically, *what democracy looks like in practice* — not as a textbook system but as something messy, contested, and worth participating in.

@@ -3,8 +3,6 @@ title: Connection
 tags: [cornerstone, cornerstone/connection]
 ---
 
-# Connection
-
 Relationships, communication, understanding self and others through interaction. Learning that requires genuine engagement with other perspectives — not just transmission of facts.
 
 > "Belonging is the lived experience of Connection." — RSHE/Cornerstones Mapping v0.1

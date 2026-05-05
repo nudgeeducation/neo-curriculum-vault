@@ -7,8 +7,6 @@ assessment: portfolio, externally moderated by ASDAN
 regulated: false (not Ofqual-regulated)
 ---
 
-# ASDAN — Hair and Beauty (Short Course)
-
 A 60-guided-learning-hour Short Course exploring the hair and beauty industry, salon hygiene and safety, basic hair and skin care, and customer service. Portfolio-based, externally moderated by ASDAN.
 
 ## Likely topics

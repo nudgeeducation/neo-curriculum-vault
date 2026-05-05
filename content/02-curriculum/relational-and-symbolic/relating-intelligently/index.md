@@ -10,8 +10,6 @@ mode_intended: live, independent
 target_age: 13–16 (KS4)
 ---
 
-# Relating Intelligently
-
 *Relating Intelligently: How to Think, Feel, and Stay Human with AI* — a five-part curriculum designed to help young people navigate the emotional, ethical, and symbolic dimensions of life with emerging technologies.
 
 **Cornerstones:** [[../../../01-cornerstones/reflection|Reflection]] (●●●), [[../../../01-cornerstones/connection|Connection]] (●●●), [[../../../01-cornerstones/creativity|Creativity]] (●●)

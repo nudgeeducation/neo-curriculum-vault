@@ -3,8 +3,6 @@ title: RSHE — Statutory Strand
 tags: [curriculum, curriculum/statutory]
 ---
 
-# RSHE — Statutory Strand
-
 Relationships, Sex and Health Education became statutory for all secondary-age pupils in England from September 2020 under the Children and Social Work Act 2017. The 2026 statutory guidance (effective 1 September 2026) is the version applicable to NEO.
 
 NEO is independent alternative provision. Independent AP settings are not legally bound by health-education sections, but must still cover relationships education and RSE. The 2026 guidance explicitly states *"specific thought should be given to the particular needs and vulnerabilities of the pupils and what adjustments might be needed"* — this is precisely the ground NEO operates on.

@@ -10,8 +10,6 @@ oeas: curriculum-rigour, teaching-quality
 mastery_scale: applies
 ---
 
-# Language and structure analysis
-
 Explaining and analysing how writers use linguistic devices (word choice, imagery, figurative language, sentence structures, sound patterns) and structural devices (whole-text shape, paragraphing, openings and endings, perspective shifts, narrative arc) to achieve effects and influence readers. Using subject terminology accurately to support analysis.
 
 This strand is the heart of the academic study of English and is consistent across Edexcel IGCSE and AQA GCSE. Functional Skills doesn't test language analysis at Level 2 — its focus is on functional comprehension rather than literary critique — so this strand has no FS overlay.

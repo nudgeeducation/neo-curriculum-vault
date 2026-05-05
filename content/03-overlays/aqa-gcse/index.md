@@ -3,8 +3,6 @@ title: AQA GCSE
 tags: [overlay, overlay/aqa-gcse]
 ---
 
-# AQA GCSE
-
 The dominant GCSE awarding body for the existing Nudge North East cohort. NEO supports learners registered with AQA via revision and prep alongside their primary NEO programme — typically the Edexcel IGCSE pathway, but a learner may transfer in or out of AQA depending on commissioner / school arrangements.
 
 NEO does not register learners with AQA. The registering body is the LA, school, or commissioner.

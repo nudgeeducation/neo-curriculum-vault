@@ -10,8 +10,6 @@ oeas: curriculum-breadth, curriculum-rigour
 mastery_scale: applies
 ---
 
-# Functional English — Writing for adult-life purposes
-
 Writing the things adults actually have to write: emails to services, complaints, applications, CVs, formal letters, reports, contracts, instructions, reviews, and viewpoint pieces. Adapting form, tone, and register to the audience and the situation. Writing accurately at sentence level (grammar, punctuation, spelling) so the writing does its job.
 
 ## Tested most directly by

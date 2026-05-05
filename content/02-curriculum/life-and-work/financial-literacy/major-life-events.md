@@ -10,8 +10,6 @@ mastery_scale: applies
 pfa: independent-living, employment, good-health
 ---
 
-# Major life events and financial planning
-
 The financial dimension of decisions that shape decades. Buying a first home — deposit-saving strategies, Help to Buy schemes, shared ownership, the realities of the current housing market. Pension — auto-enrolment basics, the difference between defined benefit and defined contribution, why early contributions matter disproportionately. Life and income protection insurance — when it's worth having. Wills and intestacy — what happens if you die without a will. The financial dimension of major life decisions — partnering, having children, divorce, illness, redundancy, career change. Retirement and what it actually means financially.
 
 This is the strand most explicitly *across decades*. A learner won't apply most of this content for years — but knowing the shape of these decisions when they arrive matters more than the specific numbers.

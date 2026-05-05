@@ -9,8 +9,6 @@ section: A (Reading)
 private_only: true
 ---
 
-# AQA GCSE 8700 — AO4
-
 > **AO4** — Evaluate texts critically and support this with appropriate textual references.
 
 *(Verbatim spec text private side only — © AQA)*

@@ -10,8 +10,6 @@ oeas: curriculum-rigour
 mastery_scale: applies
 ---
 
-# Statistics
-
 Data collection and sampling. Averages (mean, median, mode) and range. Charts and graphs (bar charts, pie charts, scatter graphs, frequency tables, histograms — Higher). Cumulative frequency, quartiles, interquartile range (Higher). Critical interpretation of statistics in real-world contexts.
 
 ## Tested by
