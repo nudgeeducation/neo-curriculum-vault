@@ -1,10 +1,7 @@
 ---
-title: KS4 Maths — canonical
+title: KS4 Maths — canonical curriculum
 tags: [curriculum/ks4]
 ---
-
-# KS4 Maths — canonical curriculum
-
 Canonical KS4 Mathematics content as a synthetic frame defined by the union of overlays. See [[../../../_schema/tagging-schema|Tagging Schema v0.3]] §2.6 for the mechanic.
 
 The seven canonical strands below are the consensus across **Edexcel IGCSE Mathematics A (4MA1)**, **AQA GCSE Mathematics (8300)**, and **Pearson Edexcel Functional Skills Mathematics Level 2** (against Ofqual's 2018 Subject Content). Six are content strands; the seventh is a cross-cutting capability strand that all three boards test in different ways.

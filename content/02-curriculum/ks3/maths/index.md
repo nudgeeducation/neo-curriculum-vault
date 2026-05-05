@@ -1,10 +1,7 @@
 ---
-title: KS3 Maths (National Curriculum)
+title: KS3 Maths — canonical curriculum
 tags: [curriculum/ks3]
 ---
-
-# KS3 Maths — canonical curriculum
-
 NEO's KS3 Maths offer, anchored on the **National Curriculum Mathematics programmes of study, key stage 3** (Department for Education, 2014). Crown copyright, public document.
 
 The KS3 NC for Maths organises content into **six domains plus one cross-cutting capability**, all of which extend forward into KS4 in spiral. The 1:1 mapping from KS3 to KS4 strands is clean — KS4 Maths is built directly on KS3 Maths.

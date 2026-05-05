@@ -1,5 +1,5 @@
 ---
-title: GIGF — Module 8 — Presentation, Delivery, and Close
+title: Module 8 — Presentation, Delivery, and Close
 type: canonical-outcome
 curriculum: relational-and-symbolic
 parent: girls-in-green-futures
@@ -13,9 +13,6 @@ oeas: curriculum-breadth, teaching-quality
 mastery_scale: applies
 pfa: employment, independent-living, community
 ---
-
-# Module 8 — Presentation, Delivery, and Close
-
 The final day. Morning is preparation. Afternoon is delivery. The day closes with the exit knowledge assessment and a programme reflection.
 
 > *"Core principle for this final day: this is theirs. The facilitator's job is to create the conditions for them to succeed, not to succeed on their behalf. The presentation is their voice. The findings are their work. The confidence they carry out of the room is what the programme is for."* — Facilitator Quick Reference Card

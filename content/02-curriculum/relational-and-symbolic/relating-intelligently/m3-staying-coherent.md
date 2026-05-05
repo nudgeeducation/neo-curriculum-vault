@@ -1,5 +1,5 @@
 ---
-title: Relating Intelligently — Module 3 — How to Stay Coherent
+title: Module 3 — How to Stay Coherent
 type: canonical-outcome
 curriculum: relational-and-symbolic
 parent: relating-intelligently
@@ -14,9 +14,6 @@ oeas: curriculum-breadth, teaching-quality
 mastery_scale: applies
 need: social-emotional-mental-health
 ---
-
-# Module 3 — How to Stay Coherent
-
 The most therapeutic of the five modules. Teaches learners how to notice when they're losing connection with themselves — and how to return to a state of coherence. Helps them identify what alignment feels like (between thought, feeling, and action) and what dissonance feels like.
 
 ## Learning objectives

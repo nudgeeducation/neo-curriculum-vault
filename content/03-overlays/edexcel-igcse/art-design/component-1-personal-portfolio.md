@@ -1,5 +1,5 @@
 ---
-title: "Edexcel IGCSE Art and Design — Component 1: Personal Portfolio"
+title: "Component 1: Personal Portfolio"
 type: overlay-outcome
 overlay: edexcel-igcse
 spec: 4FA1 / 4GC1 / 4PY1 / 4TE1 / 4TD1
@@ -8,9 +8,6 @@ weighting: 50% of qualification
 marks: 72
 private_only: true
 ---
-
-# Component 1: Personal Portfolio
-
 Internally-set personal portfolio of work based on centre-devised theme(s), project(s) or task(s). 72 marks. 50% of grade. Internally assessed, externally moderated.
 
 The 120 guided learning hours for the qualification are distributed roughly 50% to this component. The portfolio shows the development of ideas and progress through the work, evidencing the four [[../../../02-curriculum/ks4/creative-arts/index|canonical AOs]].

@@ -1,13 +1,10 @@
 ---
-title: AQA GCSE Combined Science — Trilogy (8464)
+title: "AQA GCSE Combined Science: Trilogy — Specification 8464"
 tags: [overlay/aqa-gcse]
 spec: "AQA GCSE Combined Science: Trilogy (8464)"
 first_taught: September 2016
 first_assessed: June 2018
 ---
-
-# AQA GCSE Combined Science: Trilogy — Specification 8464
-
 The dominant GCSE Combined Science pathway for the existing Nudge North East cohort. Counts as **two GCSEs** (double award). NEO supports learners registered with AQA via revision and prep alongside their primary NEO programme.
 
 There is no AQA equivalent of Edexcel's Human Biology specifically — AQA offers single sciences (Biology 8461, Chemistry 8462, Physics 8463) or Combined Science Trilogy (8464) / Synergy (8465). For learners on the AQA pathway who would otherwise have done Edexcel Human Biology, the Trilogy biology component is the closest available match — but with a wider scope (because it sits alongside Chemistry and Physics) and less depth on body-system content.

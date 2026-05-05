@@ -1,5 +1,5 @@
 ---
-title: FS English L2 — Reading
+title: FS English Level 2 — Reading
 type: overlay-outcome
 overlay: edexcel-functional-skills
 spec: Pearson Edexcel FS English Level 2
@@ -7,9 +7,6 @@ underlying_standard: Ofqual FS Subject Content for English (2018) §3
 component: Reading
 private_only: false
 ---
-
-# FS English Level 2 — Reading
-
 Reading complex texts at Level 2 — typically everyday non-fiction texts that adults encounter (workplace documents, public information, contracts, news articles, letters, complaints, instructions). The Level 2 expectation is to handle texts that may include unfamiliar vocabulary, implicit meaning, and persuasive or biased framing.
 
 ## Skill statements (Ofqual 2018 §3, summarised)

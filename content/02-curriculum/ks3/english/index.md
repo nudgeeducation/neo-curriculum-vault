@@ -1,10 +1,7 @@
 ---
-title: KS3 English (National Curriculum)
+title: KS3 English — canonical curriculum
 tags: [curriculum/ks3]
 ---
-
-# KS3 English — canonical curriculum
-
 NEO's KS3 English offer, anchored on the **National Curriculum English programmes of study, key stage 3** (Department for Education, 2014). Crown copyright, public document — full text available on gov.uk.
 
 The KS3 NC for English organises content into four strands. Each canonical strand below is the union of NC sub-bullets at age-related expectations of *developing*, *secure*, and *mastering*.

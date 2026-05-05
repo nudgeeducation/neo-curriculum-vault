@@ -1,5 +1,5 @@
 ---
-title: Edexcel IGCSE Art and Design — AO2
+title: "Edexcel IGCSE Art and Design — AO2: Refining and experimenting"
 type: overlay-outcome
 overlay: edexcel-igcse
 spec: 4FA1 / 4GC1 / 4PY1 / 4TE1 / 4TD1 (any endorsement)
@@ -7,9 +7,6 @@ spec_id: AO2
 weighting: 25% of qualification (12.5% per component)
 private_only: true
 ---
-
-# Edexcel IGCSE Art and Design — AO2: Refining and experimenting
-
 > **AO2** — refine work by exploring ideas, selecting and experimenting with appropriate media, materials, techniques and processes.
 
 *(Verbatim spec text private side only — © Pearson Education Limited 2017)*

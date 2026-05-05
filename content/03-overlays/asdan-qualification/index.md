@@ -1,10 +1,7 @@
 ---
-title: ASDAN — Qualifications (Ofqual-regulated)
+title: ASDAN — Qualifications
 tags: [overlay, overlay/asdan-qualification]
 ---
-
-# ASDAN — Qualifications
-
 ASDAN's regulated qualifications. Approved and regulated in England (Ofqual), Wales (Qualifications Wales), and Northern Ireland (CCEA). Portfolio-based, externally moderated by ASDAN.
 
 ## Qualifications

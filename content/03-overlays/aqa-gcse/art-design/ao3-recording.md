@@ -1,5 +1,5 @@
 ---
-title: AQA GCSE Art and Design — AO3
+title: "AQA GCSE Art and Design — AO3: Recording"
 type: overlay-outcome
 overlay: aqa-gcse
 spec: 8201/8202/8203/8204/8205/8206
@@ -7,9 +7,6 @@ spec_id: AO3
 weighting: 25% of qualification
 private_only: true
 ---
-
-# AQA GCSE Art and Design — AO3: Recording
-
 > **AO3** — record ideas, observations and insights relevant to intentions as work progresses.
 
 *(Verbatim spec text private side only — © AQA)*

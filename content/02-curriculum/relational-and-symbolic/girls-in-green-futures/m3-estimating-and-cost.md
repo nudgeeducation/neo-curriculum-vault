@@ -1,5 +1,5 @@
 ---
-title: GIGF — Module 3 — Estimating and Cost
+title: Module 3 — Estimating and Cost
 type: canonical-outcome
 curriculum: relational-and-symbolic
 parent: girls-in-green-futures
@@ -13,9 +13,6 @@ oeas: curriculum-breadth, curriculum-rigour
 mastery_scale: applies
 pfa: employment, independent-living
 ---
-
-# Module 3 — Estimating and Cost
-
 How the **Resourcing** function becomes Cost in project terms. From schedule to resourced plan: how many people, what resources, what will it cost.
 
 ## Learning objectives

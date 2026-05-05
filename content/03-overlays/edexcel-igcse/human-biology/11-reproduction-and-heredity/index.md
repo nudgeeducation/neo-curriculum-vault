@@ -1,14 +1,11 @@
 ---
-title: Edexcel HB — 11. Reproduction and heredity
+title: Edexcel IGCSE Human Biology — 11. Reproduction and heredity
 type: overlay-outcome
 overlay: edexcel-igcse
 spec: 4HB1
 content_area: 11
 private_only: true
 ---
-
-# Edexcel IGCSE Human Biology — 11. Reproduction and heredity
-
 Reproductive system structure. Menstrual cycle, contraception. Pregnancy and fetal development. Genetic inheritance — alleles, genotypes, phenotypes, monohybrid crosses. Sex determination. Genetic disorders. Variation and evolution.
 
 *(Verbatim spec text private side only — © Pearson Education Limited 2024)*

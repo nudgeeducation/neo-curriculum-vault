@@ -1,10 +1,7 @@
 ---
-title: ASDAN — Programmes (non-regulated)
+title: ASDAN — Programmes
 tags: [overlay, overlay/asdan-programme]
 ---
-
-# ASDAN — Programmes
-
 ASDAN's non-regulated programmes — certificate-bearing but not Ofqual-regulated. Person-centred, project-based, portfolio-assessed.
 
 ## Programmes

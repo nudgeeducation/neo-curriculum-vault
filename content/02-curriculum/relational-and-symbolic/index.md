@@ -1,10 +1,7 @@
 ---
-title: Relational and Symbolic
+title: Relational and Symbolic — canonical curriculum
 tags: [curriculum, curriculum/relational-and-symbolic]
 ---
-
-# Relational and Symbolic — canonical curriculum
-
 NEO-original curriculum focused on relational, ethical and symbolic literacy. Canonical content not derived from any awarding body — the learning *is* the content, not a test of it.
 
 Two distinct sub-types co-exist here:

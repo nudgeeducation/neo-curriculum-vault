@@ -1,12 +1,9 @@
 ---
-title: Edexcel IGCSE Combined Science — Biology
+title: Edexcel IGCSE Combined Science (Double Award) — Biology
 tags: [overlay/edexcel-igcse]
 spec: 4SD0 — Biology component
 status: component-overview-awaiting-outcome-population
 ---
-
-# Edexcel IGCSE Combined Science (Double Award) — Biology
-
 The biology subject content within the Combined Science Double Award. Substantially the same canonical territory as Edexcel Human Biology, but lighter on body-system depth and includes Ecology (which Human Biology does not).
 
 ## Tests canonical

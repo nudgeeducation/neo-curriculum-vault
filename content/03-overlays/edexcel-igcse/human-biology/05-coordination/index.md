@@ -1,5 +1,5 @@
 ---
-title: Edexcel HB — 5. Coordination
+title: Edexcel IGCSE Human Biology — 5. Coordination
 type: overlay-outcome
 overlay: edexcel-igcse
 spec: 4HB1
@@ -7,9 +7,6 @@ content_area: 5
 spec_outcomes: 5.1 – 5.14
 private_only: true
 ---
-
-# Edexcel IGCSE Human Biology — 5. Coordination
-
 Spec outcomes 5.1–5.14. Neurones (sensory, motor, relay). The central nervous system. Brain structure (cerebral hemispheres, cerebellum, midbrain, pituitary, hypothalamus). Spinal cord and reflex arc. Receptors. Synapses. Hormones (pituitary, adrenal, thyroid, pancreas, gonads). Nervous and hormonal interaction. The eye (focusing, light response, defects, treatments). The ear (balance and hearing).
 
 *(Verbatim spec text private side only — © Pearson Education Limited 2024)*

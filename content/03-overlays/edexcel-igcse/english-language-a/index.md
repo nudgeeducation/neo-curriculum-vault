@@ -1,5 +1,5 @@
 ---
-title: Edexcel IGCSE English Language A — 4EA1
+title: Edexcel IGCSE English Language A — Specification 4EA1
 tags: [overlay/edexcel-igcse]
 spec: Pearson Edexcel International GCSE English Language A (9–1) — Specification 4EA1
 spec_issue: Issue 7, August 2025
@@ -7,9 +7,6 @@ first_taught: September 2016
 first_assessed: June 2018
 source_pdf: /Users/kirstinstevens/Desktop/Nudge Curriculum/English/English Language/int-gcse-english-a.pdf
 ---
-
-# Edexcel IGCSE English Language A — Specification 4EA1
-
 The threshold qualification commissioners, Ofsted, and post-16 providers look for first. Onscreen assessment available from 2023. Modular assessment not available for this subject — but session preparation can be paced and low-stakes until formal entry.
 
 ## Components

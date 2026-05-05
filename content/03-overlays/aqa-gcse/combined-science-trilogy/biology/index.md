@@ -1,12 +1,9 @@
 ---
-title: AQA Combined Science Trilogy — Biology
+title: AQA GCSE Combined Science Trilogy — Biology
 tags: [overlay/aqa-gcse]
 spec: 8464 — Biology component
 status: component-overview-awaiting-outcome-population
 ---
-
-# AQA GCSE Combined Science Trilogy — Biology
-
 Seven content areas: Cell biology · Organisation · Infection and response · Bioenergetics · Homeostasis and response · Inheritance, variation and evolution · Ecology.
 
 ## Tests canonical

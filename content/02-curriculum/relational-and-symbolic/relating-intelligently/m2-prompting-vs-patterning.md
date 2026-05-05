@@ -1,5 +1,5 @@
 ---
-title: Relating Intelligently — Module 2 — Prompting vs Patterning
+title: Module 2 — Prompting vs Patterning
 type: canonical-outcome
 curriculum: relational-and-symbolic
 parent: relating-intelligently
@@ -13,9 +13,6 @@ duration: 1–2 lessons (45–60 minutes each)
 oeas: curriculum-breadth
 mastery_scale: applies
 ---
-
-# Module 2 — Prompting vs Patterning
-
 How the way we ask shapes what we receive — whether from other people or from AI. Introduces the idea of a *prompt*, and invites learners to consider the difference between *prompting* (asking with intention) and *patterning* (asking out of habit, fear, or social script).
 
 ## Learning objectives

@@ -1,5 +1,5 @@
 ---
-title: GIGF — Module 6 — Green Skills and Future Jobs
+title: Module 6 — Green Skills and Future Jobs
 type: canonical-outcome
 curriculum: relational-and-symbolic
 parent: girls-in-green-futures
@@ -13,9 +13,6 @@ oeas: curriculum-breadth
 mastery_scale: applies
 pfa: employment, community
 ---
-
-# Module 6 — Green Skills and Future Jobs
-
 The hinge module that steps back from the project-controls work and asks the *why*. The transition to Net Zero is the largest infrastructure transformation in history, and the project-controls skills the cohort have just learned are exactly the skills that transformation requires.
 
 This module also returns to the systems architecture from Module 1: the ten functions describe not just projects, but the global system attempting to transition to a sustainable economy. Sensing the climate. Deciding policy. Resourcing the rebuild.

@@ -1,5 +1,5 @@
 ---
-title: Edexcel IGCSE Human Biology — 4HB1
+title: Edexcel IGCSE Human Biology — Specification 4HB1
 tags: [overlay/edexcel-igcse]
 spec: Pearson Edexcel International GCSE Human Biology (9–1) — Specification 4HB1
 spec_issue: Issue 2, September 2024
@@ -7,9 +7,6 @@ first_taught: September 2017
 first_assessed: June 2019
 source_pdf: /Users/kirstinstevens/Desktop/Nudge Curriculum/Science/Human Biology/international-gcse-human-biology-2017-spec.pdf
 ---
-
-# Edexcel IGCSE Human Biology — Specification 4HB1
-
 NEO's primary science qualification — chosen because it is the most therapeutically resonant science qualification at IGCSE level. The specification covers the body, the nervous system, mental health and the brain, nutrition, reproduction, disease and immunity, and the relationship between exercise and physical health. For learners managing anxiety, SEMH difficulties, or disordered relationships with their bodies, this is not abstract scientific content — it is a structured framework for understanding their own experience.
 
 ## Papers

@@ -1,10 +1,7 @@
 ---
-title: KS3 Creative Arts (National Curriculum)
+title: KS3 Creative Arts — canonical curriculum
 tags: [curriculum/ks3]
 ---
-
-# KS3 Creative Arts — canonical curriculum
-
 NEO's KS3 Creative Arts offer, anchored on the **National Curriculum Art and Design programmes of study, key stage 3** (Department for Education, 2014). Crown copyright, public document.
 
 NEO's KS3 framing per the [Curriculum Rationale v2.0](https://nudgeeducation.github.io/nudge-policy-vault/) §8a: *"Open creative engagement without examination framing. A young person explores art and design at their own pace. Work is documented and kept — forming the beginning of a portfolio that can transition directly into IGCSE Art and Design coursework at KS4."*

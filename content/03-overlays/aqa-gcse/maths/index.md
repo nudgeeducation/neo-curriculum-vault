@@ -1,13 +1,10 @@
 ---
-title: AQA GCSE Mathematics — 8300
+title: AQA GCSE Mathematics — Specification 8300
 tags: [overlay/aqa-gcse]
 spec: AQA GCSE Mathematics (8300)
 first_taught: September 2015
 first_assessed: June 2017
 ---
-
-# AQA GCSE Mathematics — Specification 8300
-
 NEO supports learners registered with AQA via revision and prep alongside their primary NEO programme. Pearson Edexcel IGCSE is NEO's primary maths offer; AQA is the dominant pathway for the existing Nudge North East cohort.
 
 NEO does not register learners with AQA — registration sits with the LA, school, or commissioner.

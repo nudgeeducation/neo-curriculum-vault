@@ -1,12 +1,9 @@
 ---
-title: Edexcel IGCSE Combined Science — Physics
+title: Edexcel IGCSE Combined Science (Double Award) — Physics
 tags: [overlay/edexcel-igcse]
 spec: 4SD0 — Physics component
 status: component-overview-awaiting-outcome-population
 ---
-
-# Edexcel IGCSE Combined Science (Double Award) — Physics
-
 ## Tests canonical
 
 - [[../../../../02-curriculum/ks4/science/physics-forces-and-energy|Forces, motion, and energy]]

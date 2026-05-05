@@ -1,5 +1,5 @@
 ---
-title: AQA GCSE Art and Design — AO1
+title: "AQA GCSE Art and Design — AO1: Developing ideas"
 type: overlay-outcome
 overlay: aqa-gcse
 spec: 8201/8202/8203/8204/8205/8206 (any endorsement)
@@ -7,9 +7,6 @@ spec_id: AO1
 weighting: 25% of qualification
 private_only: true
 ---
-
-# AQA GCSE Art and Design — AO1: Developing ideas
-
 > **AO1** — develop ideas through investigations, demonstrating critical understanding of sources.
 
 *(Verbatim spec text private side only — © AQA)*

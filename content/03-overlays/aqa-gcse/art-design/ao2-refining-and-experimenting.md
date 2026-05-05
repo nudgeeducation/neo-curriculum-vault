@@ -1,5 +1,5 @@
 ---
-title: AQA GCSE Art and Design — AO2
+title: "AQA GCSE Art and Design — AO2: Refining and experimenting"
 type: overlay-outcome
 overlay: aqa-gcse
 spec: 8201/8202/8203/8204/8205/8206
@@ -7,9 +7,6 @@ spec_id: AO2
 weighting: 25% of qualification
 private_only: true
 ---
-
-# AQA GCSE Art and Design — AO2: Refining and experimenting
-
 > **AO2** — refine work by exploring ideas, selecting and experimenting with appropriate media, materials, techniques and processes.
 
 *(Verbatim spec text private side only — © AQA)*

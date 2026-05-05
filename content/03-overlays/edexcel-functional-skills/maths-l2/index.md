@@ -1,14 +1,11 @@
 ---
-title: Pearson Edexcel FS Mathematics Level 2
+title: Pearson Edexcel Functional Skills Mathematics Level 2
 tags: [overlay/edexcel-functional-skills]
 spec: Pearson Edexcel Functional Skills Mathematics Level 2
 underlying_standard: Ofqual Functional Skills Subject Content for Mathematics (2018)
 revision_platform: bksb
 gcse_equivalence: broadly equivalent to GCSE Grade 4 ("good pass")
 ---
-
-# Pearson Edexcel Functional Skills Mathematics Level 2
-
 NEO's chosen FS Maths pathway. Pearson Edexcel implements against **Ofqual's Functional Skills Subject Content for Mathematics (2018)**.
 
 ## The three components

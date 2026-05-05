@@ -1,10 +1,7 @@
 ---
-title: Preparing for Adulthood
+title: Preparing for Adulthood (PfA)
 tags: [pfa-index]
 ---
-
-# Preparing for Adulthood (PfA)
-
 Four PfA outcomes from the [SEND Code of Practice for England](https://www.gov.uk/government/publications/send-code-of-practice-0-to-25). PfA is the spine of ASDAN's My Independence and Preparing for Adulthood programmes, and a common framing for EHCP outcome statements.
 
 ## The four outcomes

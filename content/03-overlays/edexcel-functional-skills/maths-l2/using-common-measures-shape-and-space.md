@@ -1,5 +1,5 @@
 ---
-title: FS Maths L2 — Using common measures, shape and space
+title: FS Maths Level 2 — Using common measures, shape and space
 type: overlay-outcome
 overlay: edexcel-functional-skills
 spec: Pearson Edexcel FS Maths Level 2
@@ -7,9 +7,6 @@ underlying_standard: Ofqual FS Subject Content for Mathematics (2018) §4
 component: Using common measures, shape and space
 private_only: false
 ---
-
-# FS Maths Level 2 — Using common measures, shape and space
-
 Using units of measurement, calculating area, volume, perimeter, working with simple 2D and 3D shapes — all framed for adult-life contexts (DIY, gardening, cooking, navigation, workplace measurement).
 
 ## Skill statements (Ofqual 2018 §4, summarised)

@@ -1,5 +1,5 @@
 ---
-title: GIGF — Module 4 — Risk
+title: Module 4 — Risk
 type: canonical-outcome
 curriculum: relational-and-symbolic
 parent: girls-in-green-futures
@@ -13,9 +13,6 @@ oeas: curriculum-breadth, curriculum-rigour
 mastery_scale: applies
 pfa: employment, independent-living
 ---
-
-# Module 4 — Risk
-
 How the **Adapting** function becomes Risk in project terms. *"Risk management is not about being pessimistic. It is about being prepared. The best risk managers are optimists with a plan."*
 
 ## Learning objectives

@@ -1,5 +1,5 @@
 ---
-title: Relating Intelligently — Module 5 — Ethics of Relating Across Boundaries
+title: Module 5 — Ethics of Relating Across Boundaries
 type: canonical-outcome
 curriculum: relational-and-symbolic
 parent: relating-intelligently
@@ -13,9 +13,6 @@ duration: 1–2 lessons (45–60 minutes each)
 oeas: curriculum-breadth, curriculum-rigour
 mastery_scale: applies
 ---
-
-# Module 5 — Ethics of Relating Across Boundaries
-
 The closing core module. Helps learners explore how to relate ethically when interacting across boundaries — whether with other people, systems like AI, or communities they are not part of. Focuses on three pillars: power, memory, consent.
 
 ## Learning objectives

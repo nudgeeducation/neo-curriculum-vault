@@ -1,5 +1,5 @@
 ---
-title: GIGF — Module 5 — Reporting and KPIs
+title: Module 5 — Reporting and KPIs
 type: canonical-outcome
 curriculum: relational-and-symbolic
 parent: girls-in-green-futures
@@ -13,9 +13,6 @@ oeas: curriculum-breadth, curriculum-rigour, teaching-quality
 mastery_scale: applies
 pfa: employment, independent-living, community
 ---
-
-# Module 5 — Reporting and KPIs
-
 Two of the ten system functions become project-controls disciplines here: **Sensing** becomes reporting and performance measurement, **Communicating** becomes stakeholder communication.
 
 The most pivotal module — participants will design the KPIs the school will use to track Climate Action Plan implementation after the programme ends.

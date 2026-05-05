@@ -1,11 +1,8 @@
 ---
-title: Exam Pathways — moved
+title: Exam Pathways has moved
 tags: [moved]
 status: redirect
 ---
-
-# Exam Pathways has moved
-
 In v0.3 of the schema, awarding-body specifications are a primary tag family ([[../03-overlays/index|Overlays]]) rather than an auxiliary concept.
 
 See:

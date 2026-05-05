@@ -1,5 +1,5 @@
 ---
-title: Edexcel IGCSE 4EA1/E — Spoken Language Endorsement
+title: Edexcel IGCSE 4EA1/E — Spoken Language Endorsement (optional)
 type: overlay-outcome
 overlay: edexcel-igcse
 spec: 4EA1/E
@@ -10,9 +10,6 @@ grading: Not Classified / Pass / Merit / Distinction
 reporting: separately, alongside the IGCSE grade
 private_only: true
 ---
-
-# Edexcel IGCSE 4EA1/E — Spoken Language Endorsement (optional)
-
 > **Overview** — the spoken language presentation may take a variety of forms, including a speech or talk by a student followed by questions; or a formal debate or dialogue (e.g. interview) with prepared extended responses to shared prompts followed by questions.
 
 *(Verbatim spec text private side only — © Pearson Education Limited 2025)*

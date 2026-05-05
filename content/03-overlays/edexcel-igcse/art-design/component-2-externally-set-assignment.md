@@ -1,5 +1,5 @@
 ---
-title: "Edexcel IGCSE Art and Design — Component 2: Externally-set Assignment"
+title: "Component 2: Externally-set Assignment (ESA)"
 type: overlay-outcome
 overlay: edexcel-igcse
 spec: 4FA1 / 4GC1 / 4PY1 / 4TE1 / 4TD1
@@ -8,9 +8,6 @@ weighting: 50% of qualification
 marks: 72
 private_only: true
 ---
-
-# Component 2: Externally-set Assignment (ESA)
-
 Externally-set assignment based on the same endorsed title as Component 1. The ESA paper is released in early February of the assessment year and includes a stimulus / theme that the learner responds to.
 
 72 marks. 50% of grade. Internally assessed, externally moderated.

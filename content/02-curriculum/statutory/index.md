@@ -1,10 +1,7 @@
 ---
-title: Statutory
+title: Statutory — canonical strand parallel to NC
 tags: [curriculum, curriculum/statutory]
 ---
-
-# Statutory — canonical strand parallel to NC
-
 Curriculum content that NEO must deliver because statute requires it, regardless of whether it sits inside or outside the National Curriculum.
 
 - [[rshe/index|RSHE]] — statutory Relationships, Sex and Health Education (per the 2026 statutory guidance, effective 1 September 2026)

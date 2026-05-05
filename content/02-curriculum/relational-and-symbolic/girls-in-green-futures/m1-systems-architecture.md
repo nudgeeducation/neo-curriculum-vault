@@ -1,5 +1,5 @@
 ---
-title: GIGF — Module 1 — Every System Runs on the Same Architecture
+title: Module 1 — Every System Runs on the Same Architecture
 type: canonical-outcome
 curriculum: relational-and-symbolic
 parent: girls-in-green-futures
@@ -13,9 +13,6 @@ oeas: curriculum-breadth
 mastery_scale: applies
 pfa: employment, independent-living, community
 ---
-
-# Module 1 — Every System Runs on the Same Architecture
-
 The architectural foundation of the whole GIGF programme. Introduces **ten system functions** that every system needs to survive — Sensing, Boundary, Coordinating, Resourcing, Communicating, Deciding, Adapting, plus three others — and teaches learners to spot them in systems they already know (their family, their school, the government).
 
 ## Learning objectives

@@ -1,5 +1,5 @@
 ---
-title: Relating Intelligently — Module 1 — What Is Intelligence, Really?
+title: Module 1 — What Is Intelligence, Really?
 type: canonical-outcome
 curriculum: relational-and-symbolic
 parent: relating-intelligently
@@ -13,9 +13,6 @@ duration: 1–2 lessons (45–60 minutes each)
 oeas: curriculum-breadth
 mastery_scale: applies
 ---
-
-# Module 1 — What Is Intelligence, Really?
-
 The opening module. Invites learners to rethink what intelligence is and begin to understand it as something *relational* — not just individual or mechanical. Introduces multiple types of intelligence and begins to soften the assumption that intelligence equals IQ or grades.
 
 ## Learning objectives

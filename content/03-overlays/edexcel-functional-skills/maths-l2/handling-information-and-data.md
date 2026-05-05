@@ -1,5 +1,5 @@
 ---
-title: FS Maths L2 — Handling information and data
+title: FS Maths Level 2 — Handling information and data
 type: overlay-outcome
 overlay: edexcel-functional-skills
 spec: Pearson Edexcel FS Maths Level 2
@@ -7,9 +7,6 @@ underlying_standard: Ofqual FS Subject Content for Mathematics (2018) §5
 component: Handling information and data
 private_only: false
 ---
-
-# FS Maths Level 2 — Handling information and data
-
 Working with statistical information in adult-life contexts — interpreting charts, calculating averages, judging the reliability of data, basic probability for everyday decisions.
 
 ## Skill statements (Ofqual 2018 §5, summarised)

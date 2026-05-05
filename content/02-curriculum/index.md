@@ -1,10 +1,7 @@
 ---
-title: Curriculum
+title: Curriculum — the canonical spine
 tags: [curriculum-index]
 ---
-
-# Curriculum — the canonical spine
-
 What learning *is*. Drawn from the National Curriculum where it exists, from synthesised consensus across awarding bodies where it doesn't, and from NEO-original / statutory frames where neither apply.
 
 Per the v0.3 schema, the Curriculum spine is the canonical layer of the vault. Awarding-body specifications sit at [[../03-overlays/index|Overlays]] and wikilink onto canonical nodes. The same canonical content can carry many overlays, or none.

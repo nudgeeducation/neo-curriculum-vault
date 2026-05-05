@@ -1,10 +1,7 @@
 ---
-title: Key Stage 3 (National Curriculum)
+title: Key Stage 3 — canonical curriculum
 tags: [curriculum, curriculum/ks3]
 ---
-
-# Key Stage 3 — canonical curriculum
-
 NEO's minimal KS3 offer for Years 7–9, per the [Curriculum Rationale v2.0](https://nudgeeducation.github.io/nudge-policy-vault/) §8. Built around engagement, not attainment — the purpose is to keep a young person connected to learning, to the Nudge relationship, and to themselves, so that when they reach KS4 they have foundation rather than gap.
 
 Canonical KS3 outcomes are written from the published National Curriculum (Programmes of Study, KS3, 2014). Tagged with NC age-related expectations: developing / secure / mastering.

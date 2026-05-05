@@ -1,5 +1,5 @@
 ---
-title: Relating Intelligently — Module 4 — Symbolic Interaction Design
+title: Module 4 — Symbolic Interaction Design
 type: canonical-outcome
 curriculum: relational-and-symbolic
 parent: relating-intelligently
@@ -13,9 +13,6 @@ duration: 1–2 lessons (45–60 minutes each)
 oeas: curriculum-breadth
 mastery_scale: applies
 ---
-
-# Module 4 — Symbolic Interaction Design
-
 Invites learners to explore how humans use symbols to communicate beyond logic or facts. Introduces the idea that we speak in patterns, metaphors, and emotional codes — and that AI, while skilled at mirroring symbolic language, often misses the meaning beneath the symbol.
 
 ## Learning objectives

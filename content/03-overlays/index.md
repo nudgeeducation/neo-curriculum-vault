@@ -1,10 +1,7 @@
 ---
-title: Overlays
+title: Overlays — awarding-body specifications
 tags: [overlay-index]
 ---
-
-# Overlays — awarding-body specifications
-
 How learning *gets assessed* by external bodies. Overlay outcome pages wikilink to the canonical [[../02-curriculum/index|Curriculum]] nodes they test.
 
 The same canonical content can carry many overlays. A single canonical KS4 English Reading node, for example, is tested by Edexcel IGCSE 4EA1, AQA GCSE English Language, and Pearson Edexcel Functional Skills English Level 2 — three different overlays pointing at the same learning.

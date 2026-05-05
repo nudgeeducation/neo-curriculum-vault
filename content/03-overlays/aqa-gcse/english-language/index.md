@@ -1,13 +1,10 @@
 ---
-title: AQA GCSE English Language — 8700
+title: AQA GCSE English Language — Specification 8700
 tags: [overlay/aqa-gcse]
 spec: AQA GCSE English Language (8700)
 first_taught: September 2015
 first_assessed: June 2017
 ---
-
-# AQA GCSE English Language — Specification 8700
-
 The dominant GCSE English Language pathway for the existing Nudge North East cohort. NEO supports learners registered with AQA via revision and prep alongside their primary NEO programme. NEO does not register learners with AQA — registration sits with the LA, school, or commissioner.
 
 Source: aqa.org.uk/subjects/english/gcse/english-language-8700.

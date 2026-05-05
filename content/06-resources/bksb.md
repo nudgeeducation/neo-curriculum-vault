@@ -1,11 +1,8 @@
 ---
-title: bksb (Basic and Key Skills Builder)
+title: bksb — Basic and Key Skills Builder
 tags: [resource]
 url: https://www.bksb.co.uk/
 ---
-
-# bksb — Basic and Key Skills Builder
-
 The standard Functional Skills diagnostic and revision platform used in the existing Nudge service (per the FS coordinator's note, May 2026).
 
 ## What it provides

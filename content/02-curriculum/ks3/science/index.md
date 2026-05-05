@@ -1,10 +1,7 @@
 ---
-title: KS3 Science (National Curriculum)
+title: KS3 Science — canonical curriculum ("Exploring the Natural World")
 tags: [curriculum/ks3]
 ---
-
-# KS3 Science — canonical curriculum ("Exploring the Natural World")
-
 NEO's KS3 Science offer, anchored on the **National Curriculum Science programmes of study, key stage 3** (Department for Education, 2014). Crown copyright, public document.
 
 Per the [Curriculum Rationale v2.0](https://nudgeeducation.github.io/nudge-policy-vault/) §8a, NEO frames KS3 Science as **"Exploring the Natural World"** — KS3 science content introduced through the human body, nutrition, and the environment, topics with immediate personal relevance. Low-equipment, inquiry-led approach. Foundation for [[../../ks4/science/index|KS4 Science]] (Human Biology and/or Combined Science) at KS4.

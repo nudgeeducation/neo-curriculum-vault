@@ -1,10 +1,7 @@
 ---
-title: KS4 Creative Arts — canonical (Art and Design)
+title: KS4 Creative Arts — canonical curriculum
 tags: [curriculum/ks4]
 ---
-
-# KS4 Creative Arts — canonical curriculum
-
 NEO's KS4 creative-arts offer is anchored on **Art and Design**. Phase 2 candidates include Drama, Music, and Design and Technology, all of which sit naturally in this branch when added.
 
 This is the most architecturally distinctive KS4 subject in NEO's offer because it is **portfolio-only assessed** — no written exam at any board, at any tier. The whole qualification is the body of work the learner produces. For learners who perform poorly under timed-exam conditions but demonstrate knowledge and skill over time, portfolio assessment is a genuine route to attainment.

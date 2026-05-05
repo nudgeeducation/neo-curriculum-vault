@@ -1,12 +1,9 @@
 ---
-title: AQA Combined Science Trilogy — Chemistry
+title: AQA GCSE Combined Science Trilogy — Chemistry
 tags: [overlay/aqa-gcse]
 spec: 8464 — Chemistry component
 status: component-overview-awaiting-outcome-population
 ---
-
-# AQA GCSE Combined Science Trilogy — Chemistry
-
 ## Tests canonical
 
 - [[../../../../02-curriculum/ks4/science/chemistry-atoms-and-periodic-table|Atomic structure and the periodic table]]

@@ -1,5 +1,5 @@
 ---
-title: FS Maths L2 — Using numbers and the number system
+title: FS Maths Level 2 — Using numbers and the number system
 type: overlay-outcome
 overlay: edexcel-functional-skills
 spec: Pearson Edexcel FS Maths Level 2
@@ -7,9 +7,6 @@ underlying_standard: Ofqual FS Subject Content for Mathematics (2018) §3
 component: Using numbers and the number system
 private_only: false
 ---
-
-# FS Maths Level 2 — Using numbers and the number system
-
 Working with whole numbers, fractions, decimals, percentages, and ratios in real-world contexts. Adult-life framing — money, recipes, scaling, conversion, budgeting.
 
 ## Skill statements (Ofqual 2018 §3, summarised)

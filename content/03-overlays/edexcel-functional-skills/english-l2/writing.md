@@ -1,5 +1,5 @@
 ---
-title: FS English L2 — Writing
+title: FS English Level 2 — Writing
 type: overlay-outcome
 overlay: edexcel-functional-skills
 spec: Pearson Edexcel FS English Level 2
@@ -7,9 +7,6 @@ underlying_standard: Ofqual FS Subject Content for English (2018) §4
 component: Writing
 private_only: false
 ---
-
-# FS English Level 2 — Writing
-
 Writing for adult-life purposes at Level 2. Producing a range of text types — letters, emails, reports, articles, instructions, complaints — that are clear, appropriate to audience and purpose, and use accurate sentences, paragraphs, punctuation, grammar, and spelling.
 
 ## Skill statements (Ofqual 2018 §4, summarised)

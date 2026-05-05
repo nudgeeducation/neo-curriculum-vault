@@ -1,5 +1,5 @@
 ---
-title: Edexcel IGCSE Mathematics A — 4MA1
+title: Edexcel IGCSE Mathematics A — Specification 4MA1
 tags: [overlay/edexcel-igcse]
 spec: Pearson Edexcel International GCSE Mathematics A (9–1) — Specification 4MA1
 spec_issue: Issue 2, November 2017
@@ -7,9 +7,6 @@ first_taught: September 2016
 first_assessed: June 2018
 source_pdf: /Users/kirstinstevens/Desktop/Nudge Curriculum/Maths/international-gcse-in-mathematics-spec-a.pdf
 ---
-
-# Edexcel IGCSE Mathematics A — Specification 4MA1
-
 NEO's primary maths qualification framework. Foundation tier (4MA1F) and Higher tier (4MA1H) available. Modular assessment available. Each tier has two papers, both 2 hours, calculator allowed throughout.
 
 The way mathematics is taught at NEO matters enormously. A learner who has experienced maths as a source of shame, failure, and humiliation does not need to be reintroduced to algebra through timed tests. The Foundation tier and the modular route are both designed to lower the assessment threshold; teaching pacing and Discovery Phase precede formal qualification entry.

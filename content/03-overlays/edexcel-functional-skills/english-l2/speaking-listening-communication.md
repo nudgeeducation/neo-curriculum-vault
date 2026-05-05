@@ -1,5 +1,5 @@
 ---
-title: FS English L2 — Speaking, Listening and Communication (SLC)
+title: FS English Level 2 — Speaking, Listening and Communication (SLC)
 type: overlay-outcome
 overlay: edexcel-functional-skills
 spec: Pearson Edexcel FS English Level 2
@@ -8,9 +8,6 @@ component: Speaking, Listening and Communication
 assessment: internally assessed via observation
 private_only: false
 ---
-
-# FS English Level 2 — Speaking, Listening and Communication (SLC)
-
 Engaging in formal and informal discussions and presentations. Listening actively and responding constructively. Communicating information clearly to different audiences, adapting tone and content as appropriate.
 
 ## Skill statements (Ofqual 2018 §5, summarised)

@@ -1,10 +1,7 @@
 ---
-title: Life and Work — Functional English
+title: Life and Work — Functional English (canonical)
 tags: [curriculum/life-and-work]
 ---
-
-# Life and Work — Functional English (canonical)
-
 Reading, writing, speaking, listening, and communicating for adult-life purposes. **Canonical content in its own right at NEO** — not derived from the National Curriculum, not subordinate to it, not a "lower" version of academic English.
 
 The position the v0.3 schema takes is structurally important: Functional English is *parallel canonical content*, not an overlay of NC English. Its outcomes (read a tenancy agreement, write a complaint to a service, speak in a workplace meeting, evaluate a sales pitch for bias) are the learning, not a watered-down version of the learning.

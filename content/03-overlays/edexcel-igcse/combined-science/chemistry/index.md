@@ -1,12 +1,9 @@
 ---
-title: Edexcel IGCSE Combined Science — Chemistry
+title: Edexcel IGCSE Combined Science (Double Award) — Chemistry
 tags: [overlay/edexcel-igcse]
 spec: 4SD0 — Chemistry component
 status: component-overview-awaiting-outcome-population
 ---
-
-# Edexcel IGCSE Combined Science (Double Award) — Chemistry
-
 ## Tests canonical
 
 - [[../../../../02-curriculum/ks4/science/chemistry-atoms-and-periodic-table|Atomic structure and the periodic table]]

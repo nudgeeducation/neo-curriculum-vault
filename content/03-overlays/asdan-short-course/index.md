@@ -1,10 +1,7 @@
 ---
-title: ASDAN — Short Courses (non-regulated)
+title: ASDAN — Short Courses
 tags: [overlay, overlay/asdan-short-course]
 ---
-
-# ASDAN — Short Courses
-
 ASDAN's Short Courses sit alongside their Personal Development Programmes and their Ofqual-regulated qualifications. Each Short Course is **typically 60 guided learning hours**, certificate-bearing, **not Ofqual-regulated**, and assessed through a portfolio externally moderated by ASDAN.
 
 Short Courses are subject-specific — designed to allow learners to engage deeply with one topic that interests them, while building portfolio evidence that can also feed into the wider [[../asdan-qualification/employability/index|Employability]], [[../asdan-qualification/personal-progress/index|Personal Progress]], and [[../asdan-qualification/personal-and-social-development/index|PSD]] regulated qualifications.

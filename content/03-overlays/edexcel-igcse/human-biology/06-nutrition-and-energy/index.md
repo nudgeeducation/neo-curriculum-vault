@@ -1,5 +1,5 @@
 ---
-title: Edexcel HB — 6. Nutrition and energy
+title: Edexcel IGCSE Human Biology — 6. Nutrition and energy
 type: overlay-outcome
 overlay: edexcel-igcse
 spec: 4HB1
@@ -7,9 +7,6 @@ content_area: 6
 spec_outcomes: 6.1 – 6.x
 private_only: true
 ---
-
-# Edexcel IGCSE Human Biology — 6. Nutrition and energy
-
 Nutrients, balanced diet, energy requirements. Digestive system structure and function. Mechanical and chemical digestion. Absorption. Diet-related disorders.
 
 *(Verbatim spec text private side only — © Pearson Education Limited 2024)*

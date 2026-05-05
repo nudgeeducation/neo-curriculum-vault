@@ -1,14 +1,11 @@
 ---
-title: Pearson Edexcel FS English Level 2
+title: Pearson Edexcel Functional Skills English Level 2
 tags: [overlay/edexcel-functional-skills]
 spec: Pearson Edexcel Functional Skills English Level 2
 underlying_standard: Ofqual Functional Skills Subject Content for English (2018)
 revision_platform: bksb
 gcse_equivalence: broadly equivalent to GCSE Grade 4 ("good pass")
 ---
-
-# Pearson Edexcel Functional Skills English Level 2
-
 NEO's chosen FS pathway. Pearson Edexcel implements the qualification against **Ofqual's Functional Skills Subject Content for English (2018)** — the subject content is the same across all FS awarding bodies; only the implementation specifics (paper structure, sample assessments, and granular skill IDs) differ.
 
 NEO does not register learners with Pearson Edexcel for FS — registration sits with the LA / commissioner via Pass Functional Skills.

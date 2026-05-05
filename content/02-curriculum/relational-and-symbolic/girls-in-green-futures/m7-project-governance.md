@@ -1,5 +1,5 @@
 ---
-title: GIGF — Module 7 — Project Governance
+title: Module 7 — Project Governance
 type: canonical-outcome
 curriculum: relational-and-symbolic
 parent: girls-in-green-futures
@@ -13,9 +13,6 @@ oeas: curriculum-breadth, curriculum-rigour
 mastery_scale: applies
 pfa: employment, independent-living, community
 ---
-
-# Module 7 — Project Governance
-
 How the **Deciding** function becomes governance in project terms. The systemic function that gives every other function permission to act.
 
 The participants are about to hand their Climate Action Plan review to the school. But a plan without governance is a plan that sits in a drawer. This module ensures the school knows who is responsible for what, who makes decisions, how progress is reviewed, and how the work continues after the cohort leaves.

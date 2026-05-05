@@ -1,10 +1,7 @@
 ---
-title: Life and Work
+title: Life and Work — canonical curriculum
 tags: [curriculum, curriculum/life-and-work]
 ---
-
-# Life and Work — canonical curriculum
-
 Curriculum content focused on adult life and employability. Canonical in its own right, not derived from the National Curriculum. Many of these outcomes are tested by Functional Skills, ASDAN programmes and qualifications, and parts of GCSE / IGCSE — those overlays sit in [[../../03-overlays/index|Overlays]] and wikilink in here.
 
 This branch is where NEO most clearly answers the question *"what's actually useful for kids to know for life and employment?"* The framing is intentional.

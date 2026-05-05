@@ -1,12 +1,9 @@
 ---
-title: AQA Combined Science Trilogy — Physics
+title: AQA GCSE Combined Science Trilogy — Physics
 tags: [overlay/aqa-gcse]
 spec: 8464 — Physics component
 status: component-overview-awaiting-outcome-population
 ---
-
-# AQA GCSE Combined Science Trilogy — Physics
-
 ## Tests canonical
 
 - [[../../../../02-curriculum/ks4/science/physics-forces-and-energy|Forces, motion, and energy]]

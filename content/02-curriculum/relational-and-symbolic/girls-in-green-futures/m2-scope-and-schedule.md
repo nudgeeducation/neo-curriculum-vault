@@ -1,5 +1,5 @@
 ---
-title: GIGF — Module 2 — Scope and Schedule
+title: Module 2 — Scope and Schedule
 type: canonical-outcome
 curriculum: relational-and-symbolic
 parent: girls-in-green-futures
@@ -13,9 +13,6 @@ oeas: curriculum-breadth, curriculum-rigour
 mastery_scale: applies
 pfa: employment, independent-living
 ---
-
-# Module 2 — Scope and Schedule
-
 The module where the school Climate Action Plan project becomes real. Two of the ten system functions — **Boundary** and **Coordinating** — become Scope and Schedule in project terms.
 
 ## Learning objectives

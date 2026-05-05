@@ -1,14 +1,11 @@
 ---
-title: Edexcel HB — 10. Homeostatic mechanisms
+title: Edexcel IGCSE Human Biology — 10. Homeostatic mechanisms
 type: overlay-outcome
 overlay: edexcel-igcse
 spec: 4HB1
 content_area: 10
 private_only: true
 ---
-
-# Edexcel IGCSE Human Biology — 10. Homeostatic mechanisms
-
 Temperature regulation. Water and ion balance (kidney function). Blood glucose regulation (insulin/glucagon). Negative feedback. Diabetes.
 
 *(Verbatim spec text private side only — © Pearson Education Limited 2024)*
