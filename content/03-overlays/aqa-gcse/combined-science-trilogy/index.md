@@ -1,7 +1,7 @@
 ---
 title: AQA GCSE Combined Science — Trilogy (8464)
 tags: [overlay/aqa-gcse]
-spec: AQA GCSE Combined Science: Trilogy (8464)
+spec: "AQA GCSE Combined Science: Trilogy (8464)"
 first_taught: September 2016
 first_assessed: June 2018
 ---

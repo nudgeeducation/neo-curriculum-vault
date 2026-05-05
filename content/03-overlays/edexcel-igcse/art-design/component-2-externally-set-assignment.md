@@ -1,5 +1,5 @@
 ---
-title: Edexcel IGCSE Art and Design — Component 2: Externally-set Assignment
+title: "Edexcel IGCSE Art and Design — Component 2: Externally-set Assignment"
 type: overlay-outcome
 overlay: edexcel-igcse
 spec: 4FA1 / 4GC1 / 4PY1 / 4TE1 / 4TD1

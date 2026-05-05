@@ -1,5 +1,5 @@
 ---
-title: AQA GCSE Art and Design — Component 2: Externally Set Assignment
+title: "AQA GCSE Art and Design — Component 2: Externally Set Assignment"
 type: overlay-outcome
 overlay: aqa-gcse
 spec: 8201/8202/8203/8204/8205/8206

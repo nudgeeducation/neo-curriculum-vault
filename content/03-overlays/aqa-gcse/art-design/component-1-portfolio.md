@@ -1,5 +1,5 @@
 ---
-title: AQA GCSE Art and Design — Component 1: Portfolio
+title: "AQA GCSE Art and Design — Component 1: Portfolio"
 type: overlay-outcome
 overlay: aqa-gcse
 spec: 8201/8202/8203/8204/8205/8206
