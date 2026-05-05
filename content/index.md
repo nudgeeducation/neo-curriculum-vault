@@ -111,6 +111,7 @@ Awarding-body specifications mapped onto the canonical spine.
 
 How learners progress, sit qualifications, and evidence outcomes.
 
+- [[04-pathways/qualification-pathways|Qualification Pathways]] — how IGCSE / FS / ASDAN / Discovery routes connect; stepping-stones; typical 12–24 month learner journeys; dual-registration cases
 - [[04-pathways/preparing-for-adulthood|Preparing for Adulthood]] (SEND Code of Practice — 4 outcomes)
 - [[04-pathways/oeas-criteria|OEAS Accreditation Criteria]]
 
