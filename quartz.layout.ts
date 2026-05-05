@@ -4,16 +4,9 @@ import * as Component from "./quartz/components"
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [],
+  header: [Component.NEOSiteHeader({ currentSection: "curriculum" })],
   afterBody: [],
-  footer: Component.Footer({
-    links: {
-      "Nudge Education": "https://nudgeeducation.co.uk",
-      "NEO": "https://nudgeeducation.online",
-      "Policy Vault": "https://nudgeeducation.github.io/nudge-policy-vault/",
-      "Contact": "mailto:hello@nudgeeducation.co.uk",
-    },
-  }),
+  footer: Component.NEOSiteFooter(),
 }
 
 export const defaultContentPageLayout: PageLayout = {
