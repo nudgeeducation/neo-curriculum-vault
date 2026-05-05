@@ -69,5 +69,5 @@ The four broad areas of need from the SEND Code of Practice — used to indicate
 
 ## Sister repos
 
-- [Nudge Policy Vault](https://nudgeeducation.github.io/nudge-policy-vault/) — Haven + NEO policies
+- [Nudge Policy Vault](https://nudgeeducation.github.io/nudge-policy-vault/) — Nudge Education + NEO policies
 - [NEO Architecture](https://github.com/nudgeeducation/neo-architecture) — solutions architecture (private)
