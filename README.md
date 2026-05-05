@@ -2,7 +2,7 @@
 
 The canonical curriculum library for **Nudge Education Online (NEO)**, operated by Nudge Education Ltd (Company Number 10192753), launching September 2026.
 
-🔗 **Live site:** https://nudgeeducation.github.io/neo-curriculum-vault/
+🔗 **Live site:** https://curriculum.nudgeeducation.online/
 
 ## Architecture
 

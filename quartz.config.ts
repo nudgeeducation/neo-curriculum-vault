@@ -19,7 +19,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-GB",
-    baseUrl: "nudgeeducation.github.io/neo-curriculum-vault",
+    baseUrl: "curriculum.nudgeeducation.online",
     ignorePatterns: [
       "private",
       "templates",
