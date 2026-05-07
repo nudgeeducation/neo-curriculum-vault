@@ -69,7 +69,10 @@ export default (() => {
   padding: 3rem 0 2rem;
   font-size: .92rem;
   font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
-  margin: 4rem -2rem 0 -2rem;
+  /* Rendered as a sibling of #quartz-body in renderPage.tsx, so it sits
+     below the grid and naturally spans the full viewport width.
+     The inner .neo-footer-wrap keeps content aligned to the central wrap. */
+  margin: 4rem 0 0 0;
 }
 .neo-footer-wrap {
   width: min(1120px, 100% - 2.5rem);

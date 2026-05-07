@@ -43,7 +43,10 @@ export default ((opts?: Options) => {
   color: #fff;
   border-bottom: 4px solid #2AB3A0;
   font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
-  margin: 0 -2rem 1.5rem -2rem;
+  /* Rendered as a sibling of #quartz-body in renderPage.tsx, so it sits
+     above the grid and naturally spans the full viewport width.
+     The inner .neo-bar keeps the brand and nav aligned to the central wrap. */
+  margin: 0 0 1.5rem 0;
 }
 .neo-bar {
   width: min(1120px, 100% - 2.5rem);

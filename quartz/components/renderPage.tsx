@@ -264,15 +264,20 @@ export function renderPage(
       <Head {...componentData} />
       <body data-slug={slug}>
         <div id="quartz-root" class="page">
+          {/* Site-global header rendered ABOVE the grid so it spans the full
+              viewport width, not constrained by sidebars. */}
+          {header.length > 0 && (
+            <div class="quartz-global-header">
+              {header.map((HeaderComponent) => (
+                <HeaderComponent {...componentData} />
+              ))}
+            </div>
+          )}
           <Body {...componentData}>
             {LeftComponent}
             <div class="center">
               <div class="page-header">
-                <Header {...componentData}>
-                  {header.map((HeaderComponent) => (
-                    <HeaderComponent {...componentData} />
-                  ))}
-                </Header>
+                <Header {...componentData}>{/* per-page header reserved for future page-level breadcrumbs/title */}</Header>
                 <div class="popover-hint">
                   {beforeBody.map((BodyComponent) => (
                     <BodyComponent {...componentData} />
@@ -288,8 +293,12 @@ export function renderPage(
               </div>
             </div>
             {RightComponent}
-            <Footer {...componentData} />
           </Body>
+          {/* Site-global footer rendered BELOW the grid so it spans the full
+              viewport width, not constrained by sidebars. */}
+          <div class="quartz-global-footer">
+            <Footer {...componentData} />
+          </div>
         </div>
       </body>
       {pageResources.js
