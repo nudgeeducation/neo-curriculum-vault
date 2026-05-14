@@ -1,7 +1,7 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
 interface Options {
-  currentSection?: "home" | "curriculum" | "term-dates" | "policies" | "faq"
+  currentSection?: "home" | "curriculum" | "post-16" | "term-dates" | "policies" | "faq"
 }
 
 export default ((opts?: Options) => {
@@ -21,6 +21,9 @@ export default ((opts?: Options) => {
             </a>
             <a href="https://curriculum.nudgeeducation.online/" class={linkClass("curriculum")}>
               Curriculum
+            </a>
+            <a href="https://nudgeeducation.online/post-16.html" class={linkClass("post-16")}>
+              Post-16
             </a>
             <a href="https://nudgeeducation.online/term-dates.html" class={linkClass("term-dates")}>
               Term dates

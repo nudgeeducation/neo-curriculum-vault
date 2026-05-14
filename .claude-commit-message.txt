@@ -1,0 +1,35 @@
+LA-marketing pass: lift 24 stubs to publishable depth
+
+Curriculum spine:
+- KS3 humanities, PE, digital literacy, CEIAG: full canonical
+  pages anchored on the DfE 2014 NC programmes of study and
+  Gatsby Benchmarks (CEIAG)
+- KS4 humanities, digital literacy: synthetic frame defined by
+  union of overlays per schema v0.3 §2.6
+- KS5: Phase-2 placeholder lifted to an honest commissioner-
+  facing page; explains current 16+ offer, planned timeline
+
+Overlays:
+- ASDAN programmes (PDP, Lifeskills Challenge, Towards
+  Independence, Workright, Transition Challenge, My Independence):
+  six programme indexes with module clusters, cohort fit, canonical
+  links, Cornerstone fits, PfA anchor, NEO operational notes
+- ASDAN qualifications (PSD, Employability, Personal Progress):
+  three regulated-qualification indexes
+- Pearson Edexcel FS L1 English & Maths: lifted from old
+  framework/* tag to v0.3 overlay/edexcel-functional-skills,
+  modelled on the populated L2 pages
+- Edexcel UK GCSE / OCR GCSE / Eduqas-WJEC GCSE: one-line
+  placeholders lifted to honest holding pages explaining when
+  each overlay populates and why each is not in the Year-1 offer
+- AQA GCSE English Literature: full component / AO / set-text
+  index page
+- IGCSE Human Biology 7 (Respiration) and 9 (Internal Transport):
+  enriched to parity with topic 6 (added care notes, scope detail)
+
+Terminology compliance: 'learner' throughout (Gatsby Benchmark
+3 wording flagged inline); no 'Nudge Access', no 'student',
+no ISI references; British English.
+
+Refs: schema v0.3 §2.6 (synthetic KS4 NC), §10 Q1 (course
+handbook population)
