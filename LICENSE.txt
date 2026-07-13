@@ -1,6 +1,17 @@
+This repository is dual-licensed.
+
+CODE — the Quartz framework, site configuration, and scripts — is licensed
+under the MIT License below.
+
+CONTENT — everything under content/ — is licensed separately: see
+CONTENT-LICENSE.md. The MIT License below does NOT apply to content/.
+
+---
+
 MIT License
 
-Copyright (c) 2021 jackyzha0
+Copyright (c) 2021 jackyzha0 (Quartz framework)
+Copyright (c) 2026 Nudge Education Ltd (site configuration and scripts)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
