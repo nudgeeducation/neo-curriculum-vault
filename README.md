@@ -33,6 +33,10 @@ Built with [Quartz 4](https://quartz.jzhao.xyz/) on top of an Obsidian-format ma
 
 Canonical outcome pages that anchor to the National Curriculum (2014) carry an optional `nc_ref` frontmatter field referencing the [Oak Curriculum Ontology](https://github.com/oaknational/oak-curriculum-ontology) — see [`content/_schema/nc-ref-extension.md`](content/_schema/nc-ref-extension.md) for the specification and `scripts/validate-nc-refs.py` for validation. Contains public sector information via the Oak Curriculum Ontology, © Oak National Academy, licensed under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
 
+## Licensing
+
+Dual-licensed, following the same pattern as Oak's ontology repo: **code** (Quartz, configuration, scripts) under MIT ([`LICENSE.txt`](LICENSE.txt)); **content** under CC BY 4.0 with listed exceptions — Novacene's Verse-ality Certified courses (CC BY-NC 4.0), awarding-body specifications (their copyright; paraphrased only), and OGL 3.0 public sector information ([`CONTENT-LICENSE.md`](CONTENT-LICENSE.md)).
+
 ## Companion repos
 
 - [`nudgeeducation/nudge-policy-vault`](https://github.com/nudgeeducation/nudge-policy-vault) — Nudge Education + NEO unified policy library
