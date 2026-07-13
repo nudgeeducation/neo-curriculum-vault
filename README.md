@@ -29,6 +29,10 @@ See [`content/_schema/tagging-schema.md`](content/_schema/tagging-schema.md) for
 
 Built with [Quartz 4](https://quartz.jzhao.xyz/) on top of an Obsidian-format markdown vault. Auto-deploys to GitHub Pages via `.github/workflows/deploy.yml` on every push to `main`.
 
+## Interoperability
+
+Canonical outcome pages that anchor to the National Curriculum (2014) carry an optional `nc_ref` frontmatter field referencing the [Oak Curriculum Ontology](https://github.com/oaknational/oak-curriculum-ontology) — see [`content/_schema/nc-ref-extension.md`](content/_schema/nc-ref-extension.md) for the specification and `scripts/validate-nc-refs.py` for validation. Contains public sector information via the Oak Curriculum Ontology, © Oak National Academy, licensed under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
+
 ## Companion repos
 
 - [`nudgeeducation/nudge-policy-vault`](https://github.com/nudgeeducation/nudge-policy-vault) — Nudge Education + NEO unified policy library

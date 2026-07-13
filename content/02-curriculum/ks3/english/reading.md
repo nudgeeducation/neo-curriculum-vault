@@ -9,6 +9,11 @@ mode: live, asynchronous, independent
 oeas: curriculum-breadth, curriculum-rigour
 mastery_scale: "applies (KS3 levels: developing / secure / mastering)"
 source: DfE (2014) English programmes of study, KS3 — Crown copyright
+nc_ref:
+  - natcurric:strand-reading
+  - natcurric:substrand-appreciation-and-love-of-reading
+  - natcurric:substrand-increasingly-challenging-texts
+  - natcurric:substrand-read-critically
 ---
 
 Reading widely and often, both whole books and substantial extracts. Critical comprehension and inference. Knowing how language, both spoken and written, can be used to express meaning, mood, and tone. Encountering rich, challenging, and varied texts including: pre-1914 and contemporary literature, drama, poetry, fiction and non-fiction.
