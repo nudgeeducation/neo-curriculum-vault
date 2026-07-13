@@ -9,6 +9,8 @@ mode: live, asynchronous, independent
 oeas: curriculum-breadth, curriculum-rigour
 mastery_scale: "applies (KS3 levels: developing / secure / mastering)"
 source: DfE (2014) English programmes of study, KS3 — Crown copyright
+nc_ref:
+  - natcurric:strand-writing
 ---
 
 Writing accurately, fluently, effectively, and at length for pleasure and information. Adapting writing for a wide range of purposes and audiences. Drafting and editing as part of the writing process. Vocabulary development through wide reading.

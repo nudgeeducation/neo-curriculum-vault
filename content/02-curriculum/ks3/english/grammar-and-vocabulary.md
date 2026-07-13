@@ -9,6 +9,8 @@ mode: live, asynchronous, independent
 oeas: curriculum-rigour
 mastery_scale: applies
 source: DfE (2014) English programmes of study, KS3 — Crown copyright
+nc_ref:
+  - natcurric:strand-grammar-and-vocabulary
 ---
 
 Accurate, varied, and purposeful use of grammar and vocabulary. Understanding how language patterns work and using that understanding deliberately in writing and speaking.

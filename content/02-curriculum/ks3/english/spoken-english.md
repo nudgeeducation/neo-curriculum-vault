@@ -9,6 +9,8 @@ mode: live
 oeas: curriculum-breadth, teaching-quality
 mastery_scale: applies
 source: DfE (2014) English programmes of study, KS3 — Crown copyright
+nc_ref:
+  - natcurric:strand-spoken-english
 ---
 
 Speaking confidently and effectively. Listening and responding. Participating in formal debates and structured discussions, summarising and presenting information.
