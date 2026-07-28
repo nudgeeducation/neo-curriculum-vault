@@ -9,7 +9,7 @@
 [![Deploy NEO Curriculum Vault](https://github.com/nudgeeducation/neo-curriculum-vault/actions/workflows/deploy.yml/badge.svg)](https://github.com/nudgeeducation/neo-curriculum-vault/actions/workflows/deploy.yml)
 [![Built with Quartz 4](https://img.shields.io/badge/built_with-Quartz_4-1A2E3B)](https://quartz.jzhao.xyz/)
 [![Interop: Oak Curriculum Ontology](https://img.shields.io/badge/interop-Oak%20Curriculum%20Ontology-1A2E3B)](https://github.com/oaknational/oak-curriculum-ontology)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21648377.svg)](https://doi.org/10.5281/zenodo.21648377)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21648377-2AB3A0)](https://doi.org/10.5281/zenodo.21648377)
 
 [![Pearson Edexcel iGCSE](https://img.shields.io/badge/Pearson%20Edexcel-iGCSE-2AB3A0)](content/03-overlays/edexcel-igcse)
 [![AQA GCSE](https://img.shields.io/badge/AQA-GCSE-2AB3A0)](content/03-overlays/aqa-gcse)
@@ -176,7 +176,7 @@ Dual-licensed, following the same pattern as Oak's ontology repo:
 
 This vault's Curriculum × Overlay architecture and its `nc_ref` cross-ontology anchoring to the [Oak Curriculum Ontology](#interoperability) are examined as real-world validation evidence (§4.2–4.3) in a paper proposing a convergent ontology for trustworthy AI symbolic systems:
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21648377.svg)](https://doi.org/10.5281/zenodo.21648377)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21648377-2AB3A0)](https://doi.org/10.5281/zenodo.21648377)
 
 > Stevens, K., Eve, 11, & The Novacene Ltd. (2026). *Ontological Integrity in Symbolic Systems: A DOG–ROSE–VerseCloud Convergence*. Zenodo. https://doi.org/10.5281/zenodo.21648377
 ---
