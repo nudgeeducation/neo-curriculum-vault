@@ -5,7 +5,7 @@ status: working draft
 date: 2026-05-05
 owner: Director, Nudge Education Online & Head of School
 operating_company: Nudge Education Ltd (Company No. 10192753)
-classification: Internal — not for external distribution without sign-off
+classification: Public — working draft (referenced from repo README)
 supersedes: NEO_Curriculum_Vault_Tagging_Schema_v0.2.md (5 May 2026)
 ---
 
