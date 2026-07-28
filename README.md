@@ -174,7 +174,7 @@ Dual-licensed, following the same pattern as Oak's ontology repo:
 
 ## Citation
 
-The theoretical framework underlying this vault's Verse-ality Certified relational-and-symbolic curriculum (*Relating Intelligently*, *Girls in Green Futures*) is documented in:
+This vault's Curriculum × Overlay architecture and its `nc_ref` cross-ontology anchoring to the [Oak Curriculum Ontology](#interoperability) are examined as real-world validation evidence (§4.2–4.3) in a paper proposing a convergent ontology for trustworthy AI symbolic systems:
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21648377.svg)](https://doi.org/10.5281/zenodo.21648377)
 
