@@ -46,7 +46,7 @@ const CONFIG = {
       manifestUrl: 'https://raw.githubusercontent.com/nudgeeducation/neo-science/main/docs/data/curriculum-foundations-oak.json',
       siteBase: 'https://nudgeeducation.github.io/neo-science/',
       targets: [
-        { name: 'Science | Foundation | Master (Oak)', section: 'Oak National Academy KS3 science — all strands', courseId: '', stages: ['Foundations'] },
+        { name: 'Science | Foundation | Master (Oak)', section: 'Oak National Academy KS3 science — all strands', courseId: '888005508619', stages: ['Foundations'] },
       ],
     },
   ],
