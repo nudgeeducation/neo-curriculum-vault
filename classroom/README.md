@@ -11,6 +11,7 @@ Subjects and their target classrooms are listed in `CONFIG.SUBJECTS` at the top 
 | Maths | `neo-maths/docs/data/curriculum.json` (NEO-authored lesson pages) | Mathematics \| Foundation \| Master · Mathematics \| Intermediate \| Master |
 | Science, Foundations | `neo-science/docs/data/curriculum-foundations-oak.json` (Oak KS3 science, all strands) | Science \| Foundation \| Master (Oak) |
 | English, Foundations | `classroom/manifests/english-foundations-oak.json` here (Oak KS3 English) | English \| Foundation \| Master (Oak) |
+| RSHE Year 9 / Year 10 | `classroom/manifests/rshe-year9-oak.json`, `rshe-year10-oak.json` here (Oak RSHE/PSHE, read off the site by `rshe_manifest.py` — not in the ontology) | RSHE Year 9 · RSHE Year 10 — posted as **drafts**; the RSHE lead publishes each lesson when delivered |
 
 Oak-derived manifests are built with `oak_manifest.py` from the [Oak curriculum ontology](https://github.com/oaknational/oak-curriculum-ontology) (OGL v3.0). A manifest lives here when its subject repo is private (the sync fetches over plain HTTPS), otherwise in the subject repo.
 
@@ -22,5 +23,7 @@ python3 classroom/oak_manifest.py --ontology /tmp/oak --subject english \
   --teacher-programme english-secondary-ks3 --pupil-programme "english-secondary-year-{year}" \
   --out classroom/manifests/english-foundations-oak.json
 ```
+
+A subject with `state: 'DRAFT'` posts materials hidden from learners (educator-led content, adult supervision required); the sync never pulls a post an educator has published back to draft.
 
 NEO-fying a lesson: replace its `url` with a site-relative `file` in the manifest and re-run the sync.

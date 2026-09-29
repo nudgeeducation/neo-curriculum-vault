@@ -55,7 +55,27 @@ const CONFIG = {
       manifestUrl: 'https://raw.githubusercontent.com/nudgeeducation/neo-curriculum-vault/main/classroom/manifests/english-foundations-oak.json',
       siteBase: 'https://nudgeeducation.github.io/neo-english/',
       targets: [
-        { name: 'English | Foundation | Master (Oak)', section: 'Oak National Academy KS3 English — Years 7–9', courseId: '873577358426', stages: ['Foundations'] },
+        { name: 'English | Foundation | Master (Oak)', section: 'Oak National Academy KS3 English — Years 7–9', courseId: '', stages: ['Foundations'] },
+      ],
+    },
+    {
+      key: 'rshe-oak',
+      markerPrefix: 'neo-rshe',
+      manifestUrl: 'https://raw.githubusercontent.com/nudgeeducation/neo-curriculum-vault/main/classroom/manifests/rshe-year9-oak.json',
+      siteBase: 'https://nudgeeducation.github.io/neo-curriculum-vault/',
+      state: 'DRAFT',   // educator-led, adult supervision required: the RSHE lead publishes each post when it is delivered
+      targets: [
+        { name: 'RSHE Year 9', courseId: '876376782048', stages: ['Year 9'] },
+      ],
+    },
+    {
+      key: 'rshe-oak-y10',
+      markerPrefix: 'neo-rshe',
+      manifestUrl: 'https://raw.githubusercontent.com/nudgeeducation/neo-curriculum-vault/main/classroom/manifests/rshe-year10-oak.json',
+      siteBase: 'https://nudgeeducation.github.io/neo-curriculum-vault/',
+      state: 'DRAFT',
+      targets: [
+        { name: 'RSHE Year 10', courseId: '869308132951', stages: ['Year 10'] },
       ],
     },
   ],
@@ -127,10 +147,12 @@ function syncCourse_(subject, manifest, target, courseId) {
       wanted[marker] = true;
       const title = lesson.num + ' · ' + lesson.title;
       const url = lesson.url || (subject.siteBase + lesson.file);
+      const state = subject.state || 'PUBLISHED';
       const description = [
         unit.title + ' · ' + unit.stage + (unit.strand ? ' · ' + unit.strand : ''),
         lesson.outcome ? 'Outcome: ' + lesson.outcome : null,
-        lesson.teacherUrl ? 'Educator resources (slides, worksheet, quizzes): ' + lesson.teacherUrl : null,
+        lesson.teacherUrl && lesson.teacherUrl !== url ? 'Educator resources (slides, worksheet, quizzes): ' + lesson.teacherUrl : null,
+        lesson.pupilUrl ? 'Learner page (self-study version): ' + lesson.pupilUrl : null,
         lesson.url ? attribution : 'Interactive lesson page on the ' + (subject.siteLabel || 'NEO') + ' site.',
         marker,
       ].filter(Boolean).join('\n');
@@ -139,7 +161,7 @@ function syncCourse_(subject, manifest, target, courseId) {
       if (found) {
         const sameLink = found.materials && found.materials[0] && found.materials[0].link &&
                          found.materials[0].link.url === url;
-        if (found.title === title && found.topicId === topic.topicId && sameLink && found.description === description) {
+        if (found.title === title && found.topicId === topic.topicId && sameLink && found.description === description && (found.state === state || found.state === 'PUBLISHED')) {
           log.unchanged++;
           continue;
         }
@@ -147,16 +169,18 @@ function syncCourse_(subject, manifest, target, courseId) {
         if (!sameLink) {
           // materials are not patchable — replace the post
           Classroom.Courses.CourseWorkMaterials.remove(courseId, found.id);
-          Classroom.Courses.CourseWorkMaterials.create(material_(title, description, url, topic.topicId), courseId);
+          Classroom.Courses.CourseWorkMaterials.create(material_(title, description, url, topic.topicId, state), courseId);
         } else {
+          // state only moves DRAFT → PUBLISHED here; a post an educator has published is never pulled back to draft
+          const newState = (found.state === 'PUBLISHED') ? 'PUBLISHED' : state;
           Classroom.Courses.CourseWorkMaterials.patch(
-            { title: title, description: description, topicId: topic.topicId },
-            courseId, found.id, { updateMask: 'title,description,topicId' });
+            { title: title, description: description, topicId: topic.topicId, state: newState },
+            courseId, found.id, { updateMask: 'title,description,topicId,state' });
         }
         log.updated++;
       } else {
         if (outOfTime_()) { log.stoppedEarly = true; break; }
-        Classroom.Courses.CourseWorkMaterials.create(material_(title, description, url, topic.topicId), courseId);
+        Classroom.Courses.CourseWorkMaterials.create(material_(title, description, url, topic.topicId, state), courseId);
         log.created++;
       }
     }
@@ -186,8 +210,8 @@ function syncCourse_(subject, manifest, target, courseId) {
   return log;
 }
 
-function material_(title, description, url, topicId) {
-  return { title: title, description: description, materials: [{ link: { url: url } }], topicId: topicId, state: 'PUBLISHED' };
+function material_(title, description, url, topicId, state) {
+  return { title: title, description: description, materials: [{ link: { url: url } }], topicId: topicId, state: state || 'PUBLISHED' };
 }
 
 function topicsByName_(courseId) {
