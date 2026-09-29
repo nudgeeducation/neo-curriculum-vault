@@ -49,6 +49,15 @@ const CONFIG = {
         { name: 'Science | Foundation | Master (Oak)', section: 'Oak National Academy KS3 science — all strands', courseId: '888005508619', stages: ['Foundations'] },
       ],
     },
+    {
+      key: 'english-foundations-oak',
+      markerPrefix: 'neo-english',
+      manifestUrl: 'https://raw.githubusercontent.com/nudgeeducation/neo-curriculum-vault/main/classroom/manifests/english-foundations-oak.json',
+      siteBase: 'https://nudgeeducation.github.io/neo-english/',
+      targets: [
+        { name: 'English | Foundation | Master (Oak)', section: 'Oak National Academy KS3 English — Years 7–9', courseId: '', stages: ['Foundations'] },
+      ],
+    },
   ],
   ONLY_LIVE: true,
   TIME_BUDGET_MS: 5 * 60 * 1000,
