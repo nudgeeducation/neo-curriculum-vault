@@ -2,7 +2,7 @@
 title: KS4 Science — canonical curriculum
 tags: [curriculum/ks4]
 ---
-Canonical KS4 Science content as a synthetic frame defined by the union of overlays. See [[../../../_schema/tagging-schema|Tagging Schema v0.3]] §2.6.
+NEO's KS4 Science offer, anchored on the **National Curriculum science programmes of study, key stage 4** (Department for Education, 2014; Crown copyright, full text on gov.uk) — biology, chemistry, physics and working scientifically. The overlays below show how each qualification tests that content; they inform the route, they do not define it. See [[../../../_schema/tagging-schema|Tagging Schema v0.3]] §2.6.
 
 NEO's primary science route is **Human Biology** — per the [Curriculum Rationale v2.0](https://nudgeeducation.github.io/nudge-policy-vault/), it is the most therapeutically resonant science qualification at IGCSE level, covering the nervous system, nutrition, mental health, and the body in ways directly relevant to learners managing SEMH difficulties. **Combined Science** (Double Award) is the broader pathway for learners with academic ambitions or where the EHCP specifies broader curriculum coverage.
 

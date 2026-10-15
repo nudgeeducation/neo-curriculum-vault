@@ -11,6 +11,10 @@ NEO's primary maths qualification framework. Foundation tier (4MA1F) and Higher 
 
 The way mathematics is taught at NEO matters enormously. A learner who has experienced maths as a source of shame, failure, and humiliation does not need to be reintroduced to algebra through timed tests. The Foundation tier and the modular route are both designed to lower the assessment threshold; teaching pacing and Discovery Phase precede formal qualification entry.
 
+## Spec-point alignment
+
+The three AO pages below summarise 4MA1 at content-area level. Point-by-point coverage — every Foundation and Higher specification reference, its status, and the NEO unit and lesson that teaches it — is maintained in the alignment map in the maths repo; see [[../../../06-resources/neo-maths|NEO Maths — the delivered curriculum]].
+
 ## Tiers and papers
 
 - **Foundation tier** — Papers 1F and 2F, each 2 hours, 100 marks, 50% of grade. Targeted at grades 5–1.

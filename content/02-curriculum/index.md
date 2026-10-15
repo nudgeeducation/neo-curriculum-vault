@@ -9,7 +9,7 @@ Per the v0.3 schema, the Curriculum spine is the canonical layer of the vault. A
 ## The six branches
 
 - [[ks3/index|Key Stage 3]] — National Curriculum strands for Years 7–9
-- [[ks4/index|Key Stage 4]] — synthetic NC defined by union of overlays
+- [[ks4/index|Key Stage 4]] — NC KS4 programmes of study for English, maths and science; defined by the union of overlays elsewhere
 - [[ks5/index|Key Stage 5]] *(Phase 2)*
 - [[life-and-work/index|Life and Work]] — functional skills, employability, independent living, financial literacy, citizenship; canonical in their own right, not overlay-derived
 - [[relational-and-symbolic/index|Relational and Symbolic]] — *Relating Intelligently*, *Girls in Green Futures*, Cornerstones Electives; NEO-original canonical curriculum, mostly Verse-ality Certified

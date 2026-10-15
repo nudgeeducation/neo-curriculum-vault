@@ -21,6 +21,10 @@ Per the [Curriculum Rationale v2.0](https://nudgeeducation.github.io/nudge-polic
 
 - [[working-mathematically|Working mathematically]] — develop fluency, reason mathematically, solve problems
 
+## Delivered as
+
+The Foundations pathway on [[../../../06-resources/neo-maths|NEO Maths]] — the published lesson site. Autumn 2026 units are live; Spring and Summer 2026–27 are planned to the term dates.
+
 ## Forward to KS4
 
 Each KS3 Maths strand is a direct precursor to the corresponding [[../../ks4/maths/index|KS4 Maths]] canonical strand. The NC at KS3 introduces and consolidates; KS4 extends and applies.

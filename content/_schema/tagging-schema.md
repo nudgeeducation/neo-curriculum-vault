@@ -89,7 +89,7 @@ Identifies where in the canonical curriculum spine a node sits. Single-valued pe
 
 ```
 [[curriculum/ks3]]                       — Key Stage 3 National Curriculum
-[[curriculum/ks4]]                       — Key Stage 4 (synthetic NC; defined by union of overlays — see §6)
+[[curriculum/ks4]]                       — Key Stage 4 (NC KS4 programmes of study where published; otherwise defined by union of overlays — see §2.6)
 [[curriculum/ks5]]                       — Key Stage 5 (Phase 2)
 [[curriculum/life-and-work]]             — Functional skills, employability,
                                            independent-living, financial-literacy,
@@ -179,9 +179,11 @@ Each overlay outcome page wikilinks to **one or more canonical outcome pages** t
 - Wikilink to the canonical outcome it tests
 - Awarding-body-specific notes (assessment objectives, exam-paper structure, mark allocation)
 
-### 2.6 What "synthetic KS4 NC" means in practice
+### 2.6 KS4 canonical nodes — anchored where a programme of study exists, synthetic where it doesn't
 
-KS4 has no standalone published National Curriculum document — at KS4, what counts as the curriculum is essentially the awarding-body specs in aggregate. Rather than authoring a synthetic KS4 NC from scratch, the vault treats the canonical KS4 nodes as **frames defined by the union of overlays that point at them**.
+The National Curriculum publishes KS4 programmes of study for English, mathematics and science (and citizenship, computing and PE) — DfE (2014), *National curriculum in England: key stages 3 and 4 framework document*. Canonical KS4 nodes in those subjects anchor on the programme of study exactly as KS3 nodes do, and carry `nc_ref` anchors where the Oak ontology provides them.
+
+For subjects with no KS4 programme of study (humanities, creative arts, digital literacy), what counts as the curriculum is the awarding-body specs in aggregate. Rather than authoring a synthetic KS4 NC from scratch, the vault treats those canonical KS4 nodes as **frames defined by the union of overlays that point at them**.
 
 A canonical KS4 English Reading node, for example, is a page that:
 
@@ -191,7 +193,7 @@ A canonical KS4 English Reading node, for example, is a page that:
 
 The page is navigable two ways: top-down (here's an area of KS4 English; here's how each overlay approaches it) and bottom-up (here's an Edexcel spec point; here's the canonical area; here are the AQA and FS equivalents). What learning *is* at KS4 becomes the consensus across overlays, made visible.
 
-This means **no separate authorial work is needed to create a synthetic KS4 NC document**. The canonical nodes are defined by the wikilink graph, and the graph is populated as overlays are added. KS3 is different — there, an actual NC document exists and the canonical nodes are written from it. KS5 is a Phase 2 question.
+This means **no separate authorial work is needed to create a synthetic KS4 NC document** for the subjects that lack one. Those canonical nodes are defined by the wikilink graph, and the graph is populated as overlays are added. Where a KS4 programme of study exists, the canonical nodes are written from it, as at KS3. KS5 is a Phase 2 question.
 
 ---
 

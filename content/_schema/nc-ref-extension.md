@@ -71,7 +71,7 @@ Strand-level references are certain (Oak's four English strands and the vault's 
 
 1. This exemplar (KS3 English) — review, then merge.
 2. KS3 maths and science strand-level anchors.
-3. KS4 canonical nodes where an NC anchor genuinely exists (KS4 NC is thin; most KS4 nodes are defined by the union of overlays and may carry no `nc_ref` — correct).
+3. KS4 canonical nodes in English, mathematics and science, which anchor on the DfE (2014) KS4 programmes of study. KS4 nodes in subjects with no KS4 programme of study are defined by the union of overlays and carry no `nc_ref` — correct.
 4. Revisit when Oak ships v1.0 / the 2027 NC revision data.
 
 ## Open questions

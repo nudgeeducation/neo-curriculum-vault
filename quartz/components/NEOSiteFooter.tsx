@@ -10,8 +10,8 @@ export default (() => {
             <div>
               <p class="neo-footer-title">Nudge Education Online</p>
               <p>
-                The online alternative provision from Nudge Education. Working towards voluntary
-                Ofsted accreditation as an online school.
+                The online alternative provision from Nudge Education. Working towards accreditation
+                under the DfE's Online Education Accreditation Scheme (OEAS).
               </p>
             </div>
             <div>
@@ -54,8 +54,8 @@ export default (() => {
             </div>
           </div>
           <div class="neo-legal">
-            <span>© {year} Nudge Education Ltd · Part of Nudge Education</span>
-            <span>nudgeeducation.online</span>
+            <span>© {year} Nudge Education Ltd · Company No. 10192753 · Working towards OEAS accreditation</span>
+            <span><a href="https://policies.nudgeeducation.online/01-all-company/privacy-policy-web-users">Privacy policy</a> · <a href="https://nudgeeducation.online/">nudgeeducation.online</a></span>
           </div>
         </div>
       </footer>

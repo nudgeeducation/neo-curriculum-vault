@@ -185,6 +185,7 @@ This vault's Curriculum × Overlay architecture and its `nc_ref` cross-ontology 
 
 - [`nudgeeducation/nudge-policy-vault`](https://github.com/nudgeeducation/nudge-policy-vault) — Nudge Education + NEO unified policy library
 - [`nudgeeducation/neo-architecture`](https://github.com/nudgeeducation/neo-architecture) — NEO solutions architecture (private)
+- [`nudgeeducation/neo-maths`](https://github.com/nudgeeducation/neo-maths) — NEO Maths: the delivered lesson site and 4MA1 alignment map ([live](https://nudgeeducation.github.io/neo-maths/))
 
 ---
 

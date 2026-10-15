@@ -2,7 +2,7 @@
 title: KS4 English — canonical curriculum
 tags: [curriculum/ks4]
 ---
-Canonical KS4 English content as a synthetic frame defined by the union of overlays that test it. See [[../../../_schema/tagging-schema|Tagging Schema v0.3]] §2.6 for the mechanic.
+NEO's KS4 English offer, anchored on the **National Curriculum English programmes of study, key stage 4** (Department for Education, 2014; Crown copyright, full text on gov.uk) — reading, writing, grammar and vocabulary, spoken English. The overlays below show how each qualification tests that content; they inform the route, they do not define it. See [[../../../_schema/tagging-schema|Tagging Schema v0.3]] §2.6.
 
 The eight canonical strands below are the consensus across **Edexcel IGCSE English Language A (4EA1)**, **AQA GCSE English Language (8700)**, and **Pearson Edexcel Functional Skills English Level 2** (against Ofqual's 2018 Subject Content). Each strand surfaces the overlay outcomes that test it.
 

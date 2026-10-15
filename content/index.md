@@ -88,7 +88,7 @@ For educators, commissioners, and curriculum leads — this is where the canonic
 The canonical spine. Drawn from the National Curriculum where it exists, from synthesised consensus across awarding bodies where it doesn't, and from NEO-original / statutory frames where neither apply.
 
 - [[02-curriculum/ks3/index|Key Stage 3]] — National Curriculum strands for Years 7–9
-- [[02-curriculum/ks4/index|Key Stage 4]] — synthetic NC defined by union of overlays
+- [[02-curriculum/ks4/index|Key Stage 4]] — NC KS4 programmes of study for English, maths and science; union of overlays elsewhere
 - [[02-curriculum/ks5/index|Key Stage 5]] *(Phase 2)*
 - [[02-curriculum/life-and-work/index|Life and Work]] — functional skills, employability, independent living, financial literacy, citizenship
 - [[02-curriculum/relational-and-symbolic/index|Relational and Symbolic]] — *Relating Intelligently*, *Girls in Green Futures*, Cornerstones Electives (Verse-ality Certified Novacene IP + NEO-authored)
